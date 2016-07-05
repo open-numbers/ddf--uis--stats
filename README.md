@@ -13,3 +13,9 @@ so we should use SDMX format to export all data.
 2. choose "Education (full dataset)" in left sidebar
 3. in Export menu, choose "SDMX (XML)" format
 4. choose "Generic format" and download both SDMX and DSD file.
+
+
+## depandencies for the script
+
+- xmltodict
+- lxml

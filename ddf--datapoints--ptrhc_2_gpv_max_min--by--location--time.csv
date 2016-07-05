@@ -1,7 +1,7 @@
-time,ptrhc_2_gpv_max_min,location
-2014,2.0236,afg
-2014,1.8466,chn
-2014,2.2642,idn
-2014,7.4554,ind
-2014,1.684,lao
-2014,2.8184,pak
+location,time,ptrhc_2_gpv_max_min
+afg,2014,2.0236
+chn,2014,1.8466
+idn,2014,2.2642
+ind,2014,7.4554
+lao,2014,1.684
+pak,2014,2.8184

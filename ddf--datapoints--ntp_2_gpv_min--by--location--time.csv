@@ -1,5 +1,5 @@
-time,ntp_2_gpv_min,location
-2014,1.01,chn
-2014,1.81,idn
-2012,0.13,lao
-2014,3.04,lao
+location,time,ntp_2_gpv_min
+chn,2014,1.01
+idn,2014,1.81
+lao,2012,0.13
+lao,2014,3.04

@@ -1,7 +1,7 @@
-time,ea5ppt_2t3_gpv_pu,location
-2014,0.9798,chn
-2014,0.9962,idn
-2012,0.7874,lao
-2014,0.8571,lao
-2014,0.021,lka
-2014,0.9543,mys
+location,time,ea5ppt_2t3_gpv_pu
+chn,2014,0.9798
+idn,2014,0.9962
+lao,2012,0.7874
+lao,2014,0.8571
+lka,2014,0.021
+mys,2014,0.9543

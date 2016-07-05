@@ -1,6 +1,6 @@
-time,dindt_1_exp10p,location
-2014,10.525,idn
-2014,20.675,ind
-2012,9.915,lao
-2014,8.2,lao
-2014,9.26,mys
+location,time,dindt_1_exp10p
+idn,2014,10.525
+ind,2014,20.675
+lao,2012,9.915
+lao,2014,8.2
+mys,2014,9.26

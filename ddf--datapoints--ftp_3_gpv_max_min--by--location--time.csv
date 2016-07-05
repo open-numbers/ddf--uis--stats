@@ -1,6 +1,6 @@
-time,ftp_3_gpv_max_min,location
-2014,182.775,afg
-2014,1.8988,chn
-2014,1.83,idn
-2014,3.6244,ind
-2014,1.8578,lao
+location,time,ftp_3_gpv_max_min
+afg,2014,182.775
+chn,2014,1.8988
+idn,2014,1.83
+ind,2014,3.6244
+lao,2014,1.8578

@@ -1,6 +1,6 @@
-time,dindt_2t3_gpv_fix,location
-2014,10.04,idn
-2014,32.93,ind
-2012,25.43,lao
-2014,14.255,lao
-2014,19.015,mys
+location,time,dindt_2t3_gpv_fix
+idn,2014,10.04
+ind,2014,32.93
+lao,2012,25.43
+lao,2014,14.255
+mys,2014,19.015

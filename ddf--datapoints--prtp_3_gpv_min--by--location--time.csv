@@ -1,6 +1,6 @@
-time,prtp_3_gpv_min,location
-2014,0.08,afg
-2014,2.33,chn
-2014,23.51,idn
-2012,1.11,lao
-2014,0.99,lao
+location,time,prtp_3_gpv_min
+afg,2014,0.08
+chn,2014,2.33
+idn,2014,23.51
+lao,2012,1.11
+lao,2014,0.99

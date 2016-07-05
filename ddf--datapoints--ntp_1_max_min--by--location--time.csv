@@ -1,6 +1,6 @@
-time,ntp_1_max_min,location
-2014,6.0235,chn
-2014,2.5072,idn
-2014,21.2347,ind
-2014,15.4225,lao
-2014,29.7073,mys
+location,time,ntp_1_max_min
+chn,2014,6.0235
+idn,2014,2.5072
+ind,2014,21.2347
+lao,2014,15.4225
+mys,2014,29.7073

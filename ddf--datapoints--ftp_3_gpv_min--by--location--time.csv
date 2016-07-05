@@ -1,7 +1,7 @@
-time,ftp_3_gpv_min,location
-2014,0.4,afg
-2014,37.17,chn
-2014,38,idn
-2014,21.38,ind
-2012,33.81,lao
-2014,31.3,lao
+location,time,ftp_3_gpv_min
+afg,2014,0.4
+chn,2014,37.17
+idn,2014,38
+ind,2014,21.38
+lao,2012,33.81
+lao,2014,31.3

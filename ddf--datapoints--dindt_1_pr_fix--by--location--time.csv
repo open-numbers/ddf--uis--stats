@@ -1,5 +1,5 @@
-time,dindt_1_pr_fix,location
-2014,20.68,idn
-2014,42.285,ind
-2014,50.35,lao
-2014,14.015,mys
+location,time,dindt_1_pr_fix
+idn,2014,20.68
+ind,2014,42.285
+lao,2014,50.35
+mys,2014,14.015

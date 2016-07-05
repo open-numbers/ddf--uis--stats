@@ -1,7 +1,7 @@
-time,trtp_1_min,location
-2014,49.07,idn
-2014,25.56,ind
-2015,100,khm
-2012,90.44,lao
-2014,93.59,lao
-2014,97.79,mys
+location,time,trtp_1_min
+idn,2014,49.07
+ind,2014,25.56
+khm,2015,100
+lao,2012,90.44
+lao,2014,93.59
+mys,2014,97.79

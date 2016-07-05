@@ -1,7 +1,7 @@
-time,dindt_1_trained,location
-2014,9.445,idn
-2014,19.775,ind
-2015,9.765,khm
-2012,5.19,lao
-2014,5.455,lao
-2014,4.73,mys
+location,time,dindt_1_trained
+idn,2014,9.445
+ind,2014,19.775
+khm,2015,9.765
+lao,2012,5.19
+lao,2014,5.455
+mys,2014,4.73

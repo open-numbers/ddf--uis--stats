@@ -1,4 +1,4 @@
-time,trtp_2_gpv_min,location
-2014,71.85,idn
-2012,95.61,lao
-2014,97.92,lao
+location,time,trtp_2_gpv_min
+idn,2014,71.85
+lao,2012,95.61
+lao,2014,97.92

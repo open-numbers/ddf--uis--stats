@@ -1,4 +1,4 @@
-time,mexpt_3_gpv_pr,location
-2014,7.4332,idn
-2012,5.5019,lao
-2014,5.3244,lao
+location,time,mexpt_3_gpv_pr
+idn,2014,7.4332
+lao,2012,5.5019
+lao,2014,5.3244

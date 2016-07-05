@@ -1,8 +1,8 @@
-time,prtp_2_gpv,location
-2014,5.28,afg
-2014,7.3,chn
-2014,43.28,idn
-2014,39.43,ind
-2012,3.76,lao
-2014,3.81,lao
-2014,64.42,pak
+location,time,prtp_2_gpv
+afg,2014,5.28
+chn,2014,7.3
+idn,2014,43.28
+ind,2014,39.43
+lao,2012,3.76
+lao,2014,3.81
+pak,2014,64.42

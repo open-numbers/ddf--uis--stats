@@ -1,7 +1,7 @@
-time,trtp_2t3_gpv_min,location
-2014,76.99,idn
-2014,25.32,ind
-2015,100,khm
-2012,96.91,lao
-2014,98.4,lao
-2014,97.46,mys
+location,time,trtp_2t3_gpv_min
+idn,2014,76.99
+ind,2014,25.32
+khm,2015,100
+lao,2012,96.91
+lao,2014,98.4
+mys,2014,97.46

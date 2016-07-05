@@ -1,4 +1,4 @@
-time,trtp_3_gpv_max,location
-2014,95.83,idn
-2012,100,lao
-2014,100,lao
+location,time,trtp_3_gpv_max
+idn,2014,95.83
+lao,2012,100
+lao,2014,100

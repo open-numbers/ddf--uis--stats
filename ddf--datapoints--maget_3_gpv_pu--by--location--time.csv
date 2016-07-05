@@ -1,6 +1,6 @@
-time,maget_3_gpv_pu,location
-2014,36.891,chn
-2014,40.6306,idn
-2015,37.1793,khm
-2012,32.7839,lao
-2014,33.0571,lao
+location,time,maget_3_gpv_pu
+chn,2014,36.891
+idn,2014,40.6306
+khm,2015,37.1793
+lao,2012,32.7839
+lao,2014,33.0571

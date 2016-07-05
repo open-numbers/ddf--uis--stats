@@ -1,6 +1,6 @@
-time,dindt_2t3_gpv_exp10p,location
-2014,10.36,idn
-2014,17.59,ind
-2012,13.835,lao
-2014,13.735,lao
-2014,7.515,mys
+location,time,dindt_2t3_gpv_exp10p
+idn,2014,10.36
+ind,2014,17.59
+lao,2012,13.835
+lao,2014,13.735
+mys,2014,7.515

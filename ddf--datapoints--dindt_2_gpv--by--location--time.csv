@@ -1,8 +1,8 @@
-time,dindt_2_gpv,location
-2014,7.07,afg
-2014,5.935,chn
-2014,7.83,idn
-2014,12.76,ind
-2012,4.795,lao
-2014,4.555,lao
-2014,11.88,pak
+location,time,dindt_2_gpv
+afg,2014,7.07
+chn,2014,5.935
+idn,2014,7.83
+ind,2014,12.76
+lao,2012,4.795
+lao,2014,4.555
+pak,2014,11.88

@@ -1,6 +1,6 @@
-time,fixtp_1_pr,location
-2014,59.1,idn
-2014,14.26,ind
-2012,21.35,lao
-2014,10.74,lao
-2014,2.41,mys
+location,time,fixtp_1_pr
+idn,2014,59.1
+ind,2014,14.26
+lao,2012,21.35
+lao,2014,10.74
+mys,2014,2.41

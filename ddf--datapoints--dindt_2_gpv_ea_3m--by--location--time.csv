@@ -1,4 +1,4 @@
-time,dindt_2_gpv_ea_3m,location
-2014,17.28,chn
-2012,14.645,lao
-2014,19.86,lao
+location,time,dindt_2_gpv_ea_3m
+chn,2014,17.28
+lao,2012,14.645
+lao,2014,19.86

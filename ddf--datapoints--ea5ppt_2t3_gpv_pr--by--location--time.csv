@@ -1,6 +1,6 @@
-time,ea5ppt_2t3_gpv_pr,location
-2014,0.921,chn
-2014,0.8983,idn
-2012,0.8962,lao
-2014,0.8367,lao
-2014,0.9657,mys
+location,time,ea5ppt_2t3_gpv_pr
+chn,2014,0.921
+idn,2014,0.8983
+lao,2012,0.8962
+lao,2014,0.8367
+mys,2014,0.9657

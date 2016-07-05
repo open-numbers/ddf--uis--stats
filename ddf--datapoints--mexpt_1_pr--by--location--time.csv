@@ -1,6 +1,6 @@
-time,mexpt_1_pr,location
-2014,7.5652,idn
-2014,6.325,ind
-2012,4.9238,lao
-2014,5.0114,lao
-2014,10.7153,mys
+location,time,mexpt_1_pr
+idn,2014,7.5652
+ind,2014,6.325
+lao,2012,4.9238
+lao,2014,5.0114
+mys,2014,10.7153

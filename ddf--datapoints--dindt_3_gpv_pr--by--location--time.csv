@@ -1,6 +1,6 @@
-time,dindt_3_gpv_pr,location
-2014,56.46,afg
-2014,21.685,chn
-2014,9.715,idn
-2012,50.085,lao
-2014,56.785,lao
+location,time,dindt_3_gpv_pr
+afg,2014,56.46
+chn,2014,21.685
+idn,2014,9.715
+lao,2012,50.085
+lao,2014,56.785

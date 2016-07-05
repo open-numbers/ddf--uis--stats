@@ -1,4 +1,4 @@
-time,fixtp_3_gpv_pu,location
-2014,20.26,idn
-2012,6.02,lao
-2014,14.43,lao
+location,time,fixtp_3_gpv_pu
+idn,2014,20.26
+lao,2012,6.02
+lao,2014,14.43

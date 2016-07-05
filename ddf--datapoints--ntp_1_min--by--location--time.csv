@@ -1,7 +1,7 @@
-time,ntp_1_min,location
-2014,0.85,chn
-2014,2.09,idn
-2014,0.98,ind
-2012,1.86,lao
-2014,0.71,lao
-2014,0.41,mys
+location,time,ntp_1_min
+chn,2014,0.85
+idn,2014,2.09
+ind,2014,0.98
+lao,2012,1.86
+lao,2014,0.71
+mys,2014,0.41

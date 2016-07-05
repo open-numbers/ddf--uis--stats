@@ -1,4 +1,4 @@
-time,dindt_3_gpv_trained,location
-2014,5.71,idn
-2012,6.23,lao
-2014,6.165,lao
+location,time,dindt_3_gpv_trained
+idn,2014,5.71
+lao,2012,6.23
+lao,2014,6.165

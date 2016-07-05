@@ -1,4 +1,4 @@
-time,fixtp_2_gpv_pr,location
-2014,62.65,idn
-2012,35.67,lao
-2014,32.32,lao
+location,time,fixtp_2_gpv_pr
+idn,2014,62.65
+lao,2012,35.67
+lao,2014,32.32

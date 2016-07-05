@@ -1,4 +1,4 @@
-time,ntp_2_gpv_max_min,location
-2014,5.3267,chn
-2014,2.8122,idn
-2014,6.8125,lao
+location,time,ntp_2_gpv_max_min
+chn,2014,5.3267
+idn,2014,2.8122
+lao,2014,6.8125
