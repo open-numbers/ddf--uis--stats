@@ -1,0 +1,1684 @@
+concept,name,concept_type
+20000,"Enrolment in pre-primary education, public institutions, both sexes (number)",measure
+20001,"Enrolment in pre-primary education, public institutions, female (number)",measure
+20002,"Enrolment in primary education, public institutions, both sexes (number)",measure
+20003,"Enrolment in primary education, public institutions, female (number)",measure
+20004,"Enrolment in lower secondary education, public institutions, both sexes (number)",measure
+20005,"Enrolment in lower secondary education, public institutions, female (number)",measure
+20010,"Enrolment in upper secondary education, public institutions, both sexes (number)",measure
+20011,"Enrolment in upper secondary education, public institutions, female (number)",measure
+20016,"Enrolment in post-secondary non-tertiary education, public institutions, both sexes (number)",measure
+20017,"Enrolment in post-secondary non-tertiary education, public institutions, female (number)",measure
+20022,"Enrolment in secondary education, public institutions, both sexes (number)",measure
+20023,"Enrolment in secondary education, public institutions, female (number)",measure
+20030,"Enrolment in pre-primary education, private institutions, both sexes (number)",measure
+20031,"Enrolment in pre-primary education, private institutions, female (number)",measure
+20032,"Enrolment in primary education, private institutions, both sexes (number)",measure
+20033,"Enrolment in primary education, private institutions, female (number)",measure
+20034,"Enrolment in lower secondary education, private institutions, both sexes (number)",measure
+20035,"Enrolment in lower secondary education, private institutions, female (number)",measure
+20040,"Enrolment in upper secondary education, private institutions, both sexes (number)",measure
+20041,"Enrolment in upper secondary education, private institutions, female (number)",measure
+20046,"Enrolment in post-secondary non-tertiary education, private institutions, both sexes (number)",measure
+20047,"Enrolment in post-secondary non-tertiary education, private institutions, female (number)",measure
+20052,"Enrolment in secondary education, private institutions, both sexes (number)",measure
+20053,"Enrolment in secondary education, private institutions, female (number)",measure
+20060,"Enrolment in pre-primary education, both sexes (number)",measure
+20061,"Enrolment in pre-primary education, female (number)",measure
+20062,"Enrolment in primary education, both sexes (number)",measure
+20063,"Enrolment in primary education, female (number)",measure
+20064,"Enrolment in lower secondary education, both sexes (number)",measure
+20065,"Enrolment in lower secondary education, female (number)",measure
+20066,"Enrolment in lower secondary general, both sexes (number)",measure
+20067,"Enrolment in lower secondary general, female (number)",measure
+20068,"Enrolment in lower secondary vocational, both sexes (number)",measure
+20069,"Enrolment in lower secondary vocational, female (number)",measure
+20070,"Enrolment in upper secondary education, both sexes (number)",measure
+20071,"Enrolment in upper secondary education, female (number)",measure
+20072,"Enrolment in upper secondary general, both sexes (number)",measure
+20073,"Enrolment in upper secondary general, female (number)",measure
+20074,"Enrolment in upper secondary vocational, both sexes (number)",measure
+20075,"Enrolment in upper secondary vocational, female (number)",measure
+20076,"Enrolment in post-secondary non-tertiary education, both sexes (number)",measure
+20077,"Enrolment in post-secondary non-tertiary education, female (number)",measure
+20082,"Enrolment in secondary education, both sexes (number)",measure
+20083,"Enrolment in secondary education, female (number)",measure
+20084,"Enrolment in secondary general, both sexes (number)",measure
+20085,"Enrolment in secondary general, female (number)",measure
+20086,"Enrolment in secondary vocational, both sexes (number)",measure
+20087,"Enrolment in secondary vocational, female (number)",measure
+20136,"Teachers in lower secondary general education, both sexes (number), private institutions",measure
+20137,"Teachers in lower secondary general education, female (number), private institutions",measure
+20142,"Teachers in upper secondary general education, both sexes (number), private institutions",measure
+20143,"Teachers in upper secondary general education, female (number), private institutions",measure
+20154,"Teachers in total secondary general education, both sexes (number), private institutions",measure
+20155,"Teachers in total secondary general education, female (number), private institutions",measure
+20160,"Teachers in pre-primary education, both sexes (number)",measure
+20161,"Teachers in pre-primary education, female (number)",measure
+20162,"Teachers in primary education, both sexes (number)",measure
+20163,"Teachers in primary education, female (number)",measure
+20164,"Teachers in lower secondary education, both sexes (number)",measure
+20165,"Teachers in lower secondary education, female (number)",measure
+20166,"Teachers in lower secondary general education, both sexes (number)",measure
+20167,"Teachers in lower secondary general education, female (number)",measure
+20170,"Teachers in upper secondary education, both sexes (number)",measure
+20171,"Teachers in upper secondary education, female (number)",measure
+20172,"Teachers in upper secondary general education, both sexes (number)",measure
+20173,"Teachers in upper secondary general education, female (number)",measure
+20176,"Teachers in post-secondary non-tertiary education, both sexes (number)",measure
+20177,"Teachers in post-secondary non-tertiary education, female (number)",measure
+20182,"Teachers in secondary education, both sexes (number)",measure
+20183,"Teachers in secondary education, female (number)",measure
+20184,"Teachers in secondary general education, both sexes (number)",measure
+20185,"Teachers in secondary general education, female (number)",measure
+20186,"Teachers in secondary vocational education, both sexes (number)",measure
+20187,"Teachers in secondary vocational education, female (number)",measure
+20406,"Number of teachers in lower secondary general education who are trained (pre-service and in-service training), headcount",measure
+20412,"Number of teachers in upper secondary general education who are trained (pre-service and in-service training), headcount",measure
+20644,"Enrolment in early childhood educational development programmes, public institutions, both sexes (number)",measure
+20645,"Enrolment in early childhood educational development programmes, public institutions, female (number)",measure
+20646,"Enrolment in early childhood educational development programmes, private institutions, both sexes (number)",measure
+20647,"Enrolment in early childhood educational development programmes, private institutions, female (number)",measure
+20664,"New entrants to Grade 1 of primary education, both sexes (number)",measure
+20679,"New entrants to Grade 1 of primary education, female (number)",measure
+20694,"New entrants to Grade 1 of primary education with early childhood education experience , both sexes (number)",measure
+20909,"New entrants to Grade 1 of primary education with early childhood education experience, female (number)",measure
+21023,"Enrolment in Grade 1 of primary education, both sexes (number)",measure
+21047,"Enrolment in Grade 1 of primary education, female (number)",measure
+21073,"Enrolment in Grade 2 of primary education, both sexes (number)",measure
+21097,"Enrolment in Grade 2 of primary education, female (number)",measure
+21123,"Enrolment in Grade 3 of primary education, both sexes (number)",measure
+21147,"Enrolment in Grade 3 of primary education, female (number)",measure
+21173,"Enrolment in Grade 4 of primary education, both sexes (number)",measure
+21197,"Enrolment in Grade 4 of primary education, female (number)",measure
+21223,"Enrolment in Grade 5 of primary education, both sexes (number)",measure
+21247,"Enrolment in Grade 5 of primary education, female (number)",measure
+21273,"Enrolment in Grade 6 of primary education, both sexes (number)",measure
+21297,"Enrolment in Grade 6 of primary education, female (number)",measure
+21323,"Enrolment in Grade 7 of primary education, both sexes (number)",measure
+21347,"Enrolment in Grade 7 of primary education, female (number)",measure
+21373,"Enrolment in primary education, Grade unspecified, both sexes (number)",measure
+21397,"Enrolment in primary education, Grade unspecified, female (number)",measure
+21500,"Repeaters in Grade 1 of primary education, both sexes (number)",measure
+21501,"Repeaters in Grade 1 of primary education, female (number)",measure
+21502,"Repeaters in Grade 2 of primary education, both sexes (number)",measure
+21503,"Repeaters in Grade 2 of primary education, female (number)",measure
+21504,"Repeaters in Grade 3 of primary education, both sexes (number)",measure
+21505,"Repeaters in Grade 3 of primary education, female (number)",measure
+21506,"Repeaters in Grade 4 of primary education, both sexes (number)",measure
+21507,"Repeaters in Grade 4 of primary education, female (number)",measure
+21508,"Repeaters in Grade 5 of primary education, both sexes (number)",measure
+21509,"Repeaters in Grade 5 of primary education, female (number)",measure
+21510,"Repeaters in Grade 6 of primary education, both sexes (number)",measure
+21511,"Repeaters in Grade 6 of primary education, female (number)",measure
+21512,"Repeaters in Grade 7 of primary education, both sexes (number)",measure
+21513,"Repeaters in Grade 7 of primary education, female (number)",measure
+21516,"Repeaters in primary education, all grades, both sexes (number)",measure
+21517,"Repeaters in primary education, all grades, female (number)",measure
+25001,"Teachers in tertiary education ISCED 5 programmes, both sexes (number)",measure
+25003,"Teachers in tertiary education programmes, both sexes (number)",measure
+25005,"Teachers in tertiary education ISCED 5 programmes, female (number)",measure
+25007,"Teachers in tertiary education programmes, female (number)",measure
+25051,"Enrolment in tertiary education, ISCED 5 programmes, both sexes (number)",measure
+25052,"Enrolment in tertiary education, ISCED 8 programmes, both sexes (number)",measure
+25053,"Enrolment in tertiary education, all programmes, both sexes (number)",measure
+25055,"Enrolment in tertiary education, ISCED 5 programmes, female (number)",measure
+25056,"Enrolment in tertiary education, ISCED 8 programmes, female (number)",measure
+25057,"Enrolment in tertiary education, all programmes, female (number)",measure
+26215,"Graduates from ISCED 5 programmes in tertiary education, both sexes (number)",measure
+26255,"Graduates from ISCED 5 programmes in tertiary education, female (number)",measure
+26295,"Graduates from ISCED 8 programmes in tertiary education, both sexes (number)",measure
+26335,"Graduates from ISCED 8 programmes in tertiary education, female (number)",measure
+26375,"Graduates from tertiary education, both sexes (number)",measure
+26415,"Graduates from tertiary education, female (number)",measure
+26420,"Inbound internationally mobile students from Africa, both sexes (number)",measure
+26421,"Africa: Students from Algeria, both sexes (number)",measure
+26422,"Africa: Students from Angola, both sexes (number)",measure
+26423,"Africa: Students from Benin, both sexes (number)",measure
+26424,"Africa: Students from Botswana, both sexes (number)",measure
+26425,"Africa: Students from Burkina Faso, both sexes (number)",measure
+26426,"Africa: Students from Burundi, both sexes (number)",measure
+26427,"Africa: Students from Cameroon, both sexes (number)",measure
+26428,"Africa: Students from Cape Verde, both sexes (number)",measure
+26429,"Africa: Students from the Central African Republic, both sexes (number)",measure
+26430,"Africa: Students from Chad, both sexes (number)",measure
+26431,"Africa: Students from Comoros, both sexes (number)",measure
+26432,"Africa: Students from the Congo, both sexes (number)",measure
+26433,"Africa: Students from Côte d'Ivoire, both sexes (number)",measure
+26434,"Africa: Students from the Democratic Republic of the Congo, both sexes (number)",measure
+26435,"Africa: Students from Djibouti, both sexes (number)",measure
+26436,"Africa: Students from Egypt, both sexes (number)",measure
+26437,"Africa: Students from Equatorial Guinea, both sexes (number)",measure
+26438,"Africa: Students from Eritrea, both sexes (number)",measure
+26439,"Africa: Students from Ethiopia, both sexes (number)",measure
+26440,"Africa: Students from Gabon, both sexes (number)",measure
+26441,"Africa: Students from the Gambia, both sexes (number)",measure
+26442,"Africa: Students from Ghana, both sexes (number)",measure
+26443,"Africa: Students from Guinea, both sexes (number)",measure
+26444,"Africa: Students from Guinea-Bissau, both sexes (number)",measure
+26445,"Africa: Students from Kenya, both sexes (number)",measure
+26446,"Africa: Students from Lesotho, both sexes (number)",measure
+26447,"Africa: Students from Liberia, both sexes (number)",measure
+26448,"Africa: Students from Libya, both sexes (number)",measure
+26449,"Africa: Students from Madagascar, both sexes (number)",measure
+26450,"Africa: Students from Malawi, both sexes (number)",measure
+26451,"Africa: Students from Mali, both sexes (number)",measure
+26452,"Africa: Students from Mauritania, both sexes (number)",measure
+26453,"Africa: Students from Mauritius, both sexes (number)",measure
+26454,"Africa: Students s from Morocco, both sexes (number)",measure
+26455,"Africa: Students from Mozambique, both sexes (number)",measure
+26456,"Africa: Students from Namibia, both sexes (number)",measure
+26457,"Africa: Students from Niger, both sexes (number)",measure
+26458,"Africa: Students from Nigeria, both sexes (number)",measure
+26459,"Africa: Students from Rwanda, both sexes (number)",measure
+26460,"Africa: Students from Sao Tome and Principe, both sexes (number)",measure
+26461,"Africa: Students from Senegal, both sexes (number)",measure
+26462,"Africa: Students from Seychelles, both sexes (number)",measure
+26463,"Africa: Students from Sierra Leone, both sexes (number)",measure
+26464,"Africa: Students from Somalia, both sexes (number)",measure
+26465,"Africa: Students from South Africa, both sexes (number)",measure
+26466,"Africa: Students from Sudan (pre-secession), both sexes (number)",measure
+26467,"Africa: Students from Swaziland, both sexes (number)",measure
+26468,"Africa: Students from Togo, both sexes (number)",measure
+26469,"Africa: Students from Tunisia, both sexes (number)",measure
+26470,"Africa: Students from Uganda, both sexes (number)",measure
+26471,"Africa: Students from the United Republic of Tanzania, both sexes (number)",measure
+26472,"Africa: Students from Zambia, both sexes (number)",measure
+26473,"Africa: Students from Zimbabwe, both sexes (number)",measure
+26474,"Africa: Students from unknown countries, both sexes (number)",measure
+26475,"Inbound internationally mobile students from North America, the Caribbean and Central America, both sexes (number)",measure
+26476,"Caribbean and Central America: Students from Antigua and Barbuda, both sexes (number)",measure
+26477,"Caribbean and Central America: Students from Aruba, both sexes (number)",measure
+26478,"Caribbean and Central America: Students from Bahamas, both sexes (number)",measure
+26479,"Caribbean and Central America: Students from Barbados, both sexes (number)",measure
+26480,"Caribbean and Central America: Students from Belize, both sexes (number)",measure
+26481,"North America: Students from Bermuda, both sexes (number)",measure
+26482,"Caribbean and Central America: Students from the British Virgin Islands, both sexes (number)",measure
+26483,"North America: Students from Canada, both sexes (number)",measure
+26484,"Caribbean and Central America: Students from Costa Rica, both sexes (number)",measure
+26485,"Caribbean and Central America: Students from Cuba, both sexes (number)",measure
+26486,"Caribbean and Central America: Students from Dominica, both sexes (number)",measure
+26487,"Caribbean and Central America: Students from Dominican Republic, both sexes (number)",measure
+26488,"Caribbean and Central America: Students from El Salvador, both sexes (number)",measure
+26489,"Caribbean and Central America: Students from Grenada, both sexes (number)",measure
+26490,"Caribbean and Central America: Students from Guatemala, both sexes (number)",measure
+26491,"Caribbean and Central America: Students from Haiti, both sexes (number)",measure
+26492,"Caribbean and Central America: Students from Honduras, both sexes (number)",measure
+26493,"Caribbean and Central America: Students from Jamaica, both sexes (number)",measure
+26494,"Caribbean and Central America: Students from Mexico, both sexes (number)",measure
+26495,"Caribbean and Central America: Students from the Netherlands Antilles, both sexes (number)",measure
+26496,"Caribbean and Central America: Students from Nicaragua, both sexes (number)",measure
+26497,"Caribbean and Central America: Students from Panama, both sexes (number)",measure
+26498,"Caribbean and Central America: Students from Saint Kitts and Nevis, both sexes (number)",measure
+26499,"Caribbean and Central America: Students from Saint Lucia, both sexes (number)",measure
+26500,"Caribbean and Central America: Students from Saint Vincent and the Grenadines, both sexes (number)",measure
+26501,"Caribbean and Central America: Students from Trinidad and Tobago, both sexes (number)",measure
+26502,"Caribbean and Central America: Students from the Turks and Caicos Islands, both sexes (number)",measure
+26503,"North America: Students from the United States, both sexes (number)",measure
+26504,"North America: Students from unknown countries, both sexes (number)",measure
+26505,"Inbound internationally mobile students from South America, both sexes (number)",measure
+26506,"South America: Students from Argentina, both sexes (number)",measure
+26507,"South America: Students from the Plurinational State of Bolivia, both sexes (number)",measure
+26508,"South America: Students from Brazil, both sexes (number)",measure
+26509,"South America: Students from Chile, both sexes (number)",measure
+26510,"South America: Students from Colombia, both sexes (number)",measure
+26511,"South America: Students from Ecuador, both sexes (number)",measure
+26512,"South America: Students from Guyana, both sexes (number)",measure
+26513,"South America: Students from Paraguay, both sexes (number)",measure
+26514,"South America: Students from Peru, both sexes (number)",measure
+26515,"South America: Students from Suriname, both sexes (number)",measure
+26516,"South America: Students from Uruguay, both sexes (number)",measure
+26517,"South America: Students from the Bolivarian Republic of Venezuela, both sexes (number)",measure
+26518,"South America: Students from unknown countries, both sexes (number)",measure
+26519,"Inbound internationally mobile students from Asia, both sexes (number)",measure
+26520,"Asia: Students from Afghanistan, both sexes (number)",measure
+26521,"Asia: Students from Armenia, both sexes (number)",measure
+26522,"Asia: Students from Azerbaijan, both sexes (number)",measure
+26523,"Asia: Students from Bahrain, both sexes (number)",measure
+26524,"Asia: Students from Bangladesh, both sexes (number)",measure
+26525,"Asia: Students from Bhutan, both sexes (number)",measure
+26526,"Asia: Students from Brunei Darussalam, both sexes (number)",measure
+26527,"Asia: Students from Cambodia, both sexes (number)",measure
+26528,"Asia: Students from China, both sexes (number)",measure
+26529,"Asia: Students from Cyprus, both sexes (number)",measure
+26530,"Asia: Students from Timor-Leste, both sexes (number)",measure
+26531,"Asia: Students from Georgia, both sexes (number)",measure
+26532,"Asia: Students from Hong Kong, Special Administrative Region of China, both sexes (number)",measure
+26533,"Asia: Students from India, both sexes (number)",measure
+26534,"Asia: Students from Indonesia, both sexes (number)",measure
+26535,"Asia: Students from the Islamic Republic of Iran, both sexes (number)",measure
+26536,"Asia: Students from Iraq, both sexes (number)",measure
+26537,"Asia: Students from Israel, both sexes (number)",measure
+26538,"Asia: Students from Japan, both sexes (number)",measure
+26539,"Asia: Students from Jordan, both sexes (number)",measure
+26540,"Asia: Students from Kazakhstan, both sexes (number)",measure
+26541,"Asia: Students from the Democratic People's Republic of Korea, both sexes (number)",measure
+26542,"Asia: Students from the Republic of Korea, both sexes (number)",measure
+26543,"Asia: Students from Kuwait, both sexes (number)",measure
+26544,"Asia: Students from Kyrgyzstan, both sexes (number)",measure
+26545,"Asia: Students from Lao People's Democratic Replublic, both sexes (number)",measure
+26546,"Asia: Students from Lebanon, both sexes (number)",measure
+26547,"Asia: Students from Macao, Special Administrative Region of China, both sexes (number)",measure
+26548,"Asia: Students from Malaysia, both sexes (number)",measure
+26549,"Asia: Students from Maldives, both sexes (number)",measure
+26550,"Asia: Students from Mongolia, both sexes (number)",measure
+26551,"Asia: Students from Myanmar, both sexes (number)",measure
+26552,"Asia: Students from Nepal, both sexes (number)",measure
+26553,"Asia: Students from Oman, both sexes (number)",measure
+26554,"Asia: Students from Pakistan, both sexes (number)",measure
+26555,"Asia: Students from Palestine, both sexes (number)",measure
+26556,"Asia: Students from the Philippines, both sexes (number)",measure
+26557,"Asia: Students from Qatar, both sexes (number)",measure
+26558,"Asia: Students from Saudi Arabia, both sexes (number)",measure
+26559,"Asia: Students from Singapore, both sexes (number)",measure
+26560,"Asia: Students from Sri Lanka, both sexes (number)",measure
+26561,"Asia: Students from the Syrian Arab Republic, both sexes (number)",measure
+26562,"Asia: Students from Tajikistan, both sexes (number)",measure
+26563,"Asia: Students from Thailand, both sexes (number)",measure
+26564,"Asia: Students from Turkey, both sexes (number)",measure
+26565,"Asia: Students from Turkmenistan, both sexes (number)",measure
+26566,"Asia: Students from the United Arab Emirates, both sexes (number)",measure
+26567,"Asia: Students from Uzbekistan, both sexes (number)",measure
+26568,"Asia: Students from Viet Nam, both sexes (number)",measure
+26569,"Asia: Students from the Yemen, both sexes (number)",measure
+26570,"Asia: Students from unknown countries, both sexes (number)",measure
+26571,"Inbound internationally mobile students from Europe, both sexes (number)",measure
+26572,"Europe: Students from Albania, both sexes (number)",measure
+26573,"Europe: Students from Andorra, both sexes (number)",measure
+26574,"Europe: Students from Austria, both sexes (number)",measure
+26575,"Europe: Students from Belarus, both sexes (number)",measure
+26576,"Europe: Students from Belgium, both sexes (number)",measure
+26577,"Europe: Students from Bosnia and Herzegovina, both sexes (number)",measure
+26578,"Europe: Students from Bulgaria, both sexes (number)",measure
+26579,"Europe: Students from Croatia, both sexes (number)",measure
+26580,"Europe: Students from the Czech Republic, both sexes (number)",measure
+26581,"Europe: Students from Denmark, both sexes (number)",measure
+26582,"Europe: Students from Estonia, both sexes (number)",measure
+26583,"Europe: Students from Finland, both sexes (number)",measure
+26584,"Europe: Students from France, both sexes (number)",measure
+26585,"Europe: Students from Germany, both sexes (number)",measure
+26586,"Europe: Students from Greece, both sexes (number)",measure
+26587,"Europe: Students from the Holy See, both sexes (number)",measure
+26588,"Europe: Students from Hungary, both sexes (number)",measure
+26589,"Europe: Students from Iceland, both sexes (number)",measure
+26590,"Europe: Students from Ireland, both sexes (number)",measure
+26591,"Europe: Students from Italy, both sexes (number)",measure
+26592,"Europe: Students from Latvia, both sexes (number)",measure
+26593,"Europe: Students from Liechtenstein, both sexes (number)",measure
+26594,"Europe: Students from Lithuania, both sexes (number)",measure
+26595,"Europe: Students from Luxembourg, both sexes (number)",measure
+26596,"Europe: Students from Malta, both sexes (number)",measure
+26597,"Europe: Students from the Republic of Moldova, both sexes (number)",measure
+26598,"Europe: Students from Monaco, both sexes (number)",measure
+26599,"Europe: Students from the Netherlands, both sexes (number)",measure
+26600,"Europe: Students from Norway, both sexes (number)",measure
+26601,"Europe: Students from Poland, both sexes (number)",measure
+26602,"Europe: Students from Portugal, both sexes (number)",measure
+26603,"Europe: Students from Romania, both sexes (number)",measure
+26604,"Europe: Students from the Russian Federation, both sexes (number)",measure
+26605,"Europe: Students from San Marino, both sexes (number)",measure
+26606,"Europe: Students from Slovakia, both sexes (number)",measure
+26607,"Europe: Students from Slovenia, both sexes (number)",measure
+26608,"Europe: Students from Spain, both sexes (number)",measure
+26609,"Europe: Students from Sweden, both sexes (number)",measure
+26610,"Europe: Students from Switzerland, both sexes (number)",measure
+26611,"Europe: Students from the former Yugoslav Republic of Macedonia, both sexes (number)",measure
+26612,"Europe: Students from the Ukraine, both sexes (number)",measure
+26613,"Europe: Students from the United Kingdom, both sexes (number)",measure
+26614,"Europe: Students from Serbia, both sexes (number)",measure
+26615,"Europe: Students from unknown countries, both sexes (number)",measure
+26616,"Inbound internationally mobile students from Oceania, both sexes (number)",measure
+26617,"Oceania: Students from Australia, both sexes (number)",measure
+26618,"Oceania: Students from the Cook Islands, both sexes (number)",measure
+26619,"Oceania: Students from Fiji, both sexes (number)",measure
+26620,"Oceania: Students from Kiribati, both sexes (number)",measure
+26621,"Oceania: Students from New Zealand, both sexes (number)",measure
+26622,"Oceania: Students from Niue, both sexes (number)",measure
+26623,"Oceania: Students from Palau, both sexes (number)",measure
+26624,"Oceania: Students from Papua New Guinea, both sexes (number)",measure
+26625,"Oceania: Students from Samoa, both sexes (number)",measure
+26626,"Oceania: Students from the Solomon Islands, both sexes (number)",measure
+26627,"Oceania: Students from Tonga, both sexes (number)",measure
+26628,"Oceania: Students from Tuvalu, both sexes (number)",measure
+26629,"Oceania: Students from Vanuatu, both sexes (number)",measure
+26630,"Oceania: Students from unknown countries, both sexes (number)",measure
+26631,"Inbound internationally mobile students from unknown continents, both sexes (number)",measure
+26637,"Total inbound internationally mobile students, both sexes (number)",measure
+26638,"Total inbound internationally mobile students, female (number)",measure
+26640,"Europe: Students from Gibraltar, both sexes (number)",measure
+26641,"Caribbean and Central America: Students from Anguilla, both sexes (number)",measure
+26642,"Caribbean and Central America: Students from the Cayman Islands, both sexes (number)",measure
+26643,"Caribbean and Central America: Students from Montserrat, both sexes (number)",measure
+26644,"Oceania: Students from the Marshall Islands, both sexes (number)",measure
+26645,"Oceania: Students from the Federated States of Micronesia, both sexes (number)",measure
+26646,"Oceania: Students from Nauru, both sexes (number)",measure
+26647,"Oceania: Students from Tokelau, both sexes (number)",measure
+26648,"Inbound internationally mobile students from North America, both sexes (number)",measure
+26650,"Inbound internationally mobile students from the Caribbean and Central America, both sexes (number)",measure
+26651,"Caribbean and Central America: Students from unknown countries, both sexes (number)",measure
+26652,"Europe: Students from Montenegro, both sexes (number)",measure
+26653,"Europe: Students from Serbia and Montenegro, both sexes (number)",measure
+299902,Official entrance age to pre-primary education (years),measure
+299905,Official entrance age to primary education (years),measure
+299929,Theoretical duration of pre-primary education (years),measure
+299932,Theoretical duration of primary education (years),measure
+400,Duration of compulsory education (years),measure
+40048,"Enrolment in early childhood education, public institutions, female (number)",measure
+40049,"Enrolment in early childhood education, private institutions, female (number)",measure
+40050,"Enrolment in early childhood educational development programmes, female (number)",measure
+40051,"Enrolment in early childhood education, female (number)",measure
+40052,"Enrolment in early childhood education, public institutions, both sexes (number)",measure
+40053,"Enrolment in early childhood education, private institutions, both sexes (number)",measure
+40054,"Enrolment in early childhood educational development programmes, both sexes (number)",measure
+40055,"Enrolment in early childhood education, both sexes (number)",measure
+401,Official entrance age to compulsory education (years),measure
+41738,"Enrolment in Grade 1 of  lower secondary general education, female (number)",measure
+41739,"Enrolment in Grade 2 of  lower secondary general education, female (number)",measure
+41740,"Enrolment in Grade 3 of  lower secondary general education, female (number)",measure
+41741,"Enrolment in Grade 4 of  lower secondary general education, female (number)",measure
+41742,"Enrolment in Grade 5 of  lower secondary general education, female (number)",measure
+41743,"Enrolment in Grade 6 of  lower secondary general education, female (number)",measure
+41744,"Enrolment in lower secondary general education, Grade unspecified, female (number)",measure
+41898,"Enrolment in Grade 1 of  lower secondary general education, both sexes (number)",measure
+41899,"Enrolment in Grade 2 of  lower secondary general education, both sexes (number)",measure
+41900,"Enrolment in Grade 3 of  lower secondary general education, both sexes (number)",measure
+41901,"Enrolment in Grade 4 of  lower secondary general education, both sexes (number)",measure
+41902,"Enrolment in Grade 5 of  lower secondary general education, both sexes (number)",measure
+41903,"Enrolment in Grade 6 of  lower secondary general education, both sexes (number)",measure
+41904,"Enrolment in lower secondary general education, Grade unspecified, both sexes (number)",measure
+41924,"Repeaters in Grade 1 of lower secondary general education, female (number)",measure
+41925,"Repeaters in Grade 2 of lower secondary general education, female (number)",measure
+41926,"Repeaters in Grade 3 of lower secondary general education, female (number)",measure
+41927,"Repeaters in Grade 4 of lower secondary general education, female (number)",measure
+41928,"Repeaters in Grade 5 of lower secondary general education, female (number)",measure
+41929,"Repeaters in Grade 6 of lower secondary general education, female (number)",measure
+41931,"Repeaters in lower secondary general education, all grades, female (number)",measure
+41933,"Repeaters in Grade 1 of lower secondary general education, both sexes (number)",measure
+41934,"Repeaters in Grade 2 of lower secondary general education, both sexes (number)",measure
+41935,"Repeaters in Grade 3 of lower secondary general education, both sexes (number)",measure
+41936,"Repeaters in Grade 4 of lower secondary general education, both sexes (number)",measure
+41937,"Repeaters in Grade 5 of lower secondary general education, both sexes (number)",measure
+41938,"Repeaters in Grade 6 of lower secondary general education, both sexes (number)",measure
+41940,"Repeaters in lower secondary general education, all grades, both sexes (number)",measure
+42635,"Enrolment in tertiary education, ISCED 6 programmes, female(number)",measure
+42637,"Enrolment in tertiary education, ISCED 7 programmes, female (number)",measure
+42654,"Enrolment in tertiary education, ISCED 6 programmes, both sexes (number)",measure
+42656,"Enrolment in tertiary education, ISCED 7 programmes, both sexes (number)",measure
+43547,"Graduates from ISCED 6 programmes in tertiary education, female (number)",measure
+43549,"Graduates from ISCED 7 programmes in tertiary education, female (number)",measure
+43608,"Graduates from ISCED 6 programmes in tertiary education, both sexes (number)",measure
+43610,"Graduates from ISCED 7 programmes in tertiary education, both sexes (number)",measure
+900088,"Teachers in lower secondary general education, teaching mathematics, both sexes (number)",measure
+900089,"Teachers in lower secondary general education, teaching language, both sexes (number)",measure
+900136,"Newly recruited teachers in lower secondary general education, both sexes (number)",measure
+900137,"Number of newly recruited teachers in lower secondary general education who are trained (pre-service and in-service training), headcount",measure
+900169,"Teachers in upper secondary general education, teaching mathematics, both sexes (number)",measure
+900170,"Teachers in upper secondary general education, teaching language, both sexes (number)",measure
+900217,"Newly recruited teachers in upper secondary general education, both sexes (number)",measure
+900218,"Number of newly recruited teachers in upper secondary general education who are trained (pre-service and in-service training), headcount",measure
+900250,"Teachers in total secondary general education, teaching mathematics, both sexes (number)",measure
+900251,"Teachers in total secondary general education, teaching language, both sexes (number)",measure
+900385,"Graduates from accredited pre-service primary teacher training programmes, both sexes (number)",measure
+900386,"Graduates from accredited pre-service primary teacher training programmes, female (number)",measure
+900387,"Graduates from accredited pre-service lower secondary teacher training programmes, both sexes (number)",measure
+900388,"Graduates from accredited pre-service lower secondary teacher training programmes, female (number)",measure
+900389,"Graduates from accredited pre-service upper secondary teacher training programmes, both sexes (number)",measure
+900390,"Graduates from accredited pre-service upper secondary teacher training programmes, female (number)",measure
+900391,"Graduates from accredited pre-service teacher training programmes, level unspecified, both sexes (number)",measure
+900392,"Graduates from accredited pre-service teacher training programmes, level unspecified, female (number)",measure
+900393,"Graduates from accredited pre-service primary or secondary teacher training programmes, both sexes (number)",measure
+900394,"Graduates from accredited pre-service primary or secondary teacher training programmes, female (number)",measure
+900839,"Enrolment in primary education programmes for adults, both sexes (number)",measure
+900840,"Enrolment in primary education programmes for adults, female (number)",measure
+900841,"Enrolment in lower secondary education programmes for adults, both sexes (number)",measure
+900842,"Enrolment in lower secondary education programmes for adults, female (number)",measure
+900843,"Enrolment in upper secondary education programmes for adults, both sexes (number)",measure
+900844,"Enrolment in upper secondary education programmes for adults, female (number)",measure
+901031,"Graduates of primary education programmes for adults, both sexes (number)",measure
+901032,"Graduates of primary education programmes for adults, female (number)",measure
+901033,"Graduates of lower secondary education programmes for adults, both sexes (number)",measure
+901034,"Graduates of lower secondary education programmes for adults, female (number)",measure
+901035,"Graduates of upper secondary education programmes for adults, both sexes (number)",measure
+901036,"Graduates of upper secondary education programmes for adults, female (number)",measure
+901069,"Participants to literacy programmes, both sexes (number)",measure
+901070,"Participants to literacy programmes,female (number)",measure
+901109,"Participants that have completed a literacy programme, both sexes (number)",measure
+901110,"Participants that have completed a literacy programme, female (number)",measure
+901203,"Africa: Students from South Sudan, both sexes (number)",measure
+901204,"Africa: Students from Sudan, both sexes (number)",measure
+999975,Official entrance age to lower secondary education (years),measure
+999976,Theoretical duration of lower secondary education (years),measure
+999977,Official entrance age to upper secondary education (years),measure
+999978,Theoretical duration of upper secondary education (years),measure
+999987,Official entrance age to post-secondary non-tertiary education (years),measure
+999988,Theoretical duration of post-secondary non-tertiary education (years),measure
+agradmg_1_pu,Average number of grades per multigrade class in primary schools (number of grades),measure
+air_1,"Gross intake ratio to Grade 1 of primary education, both sexes (%)",measure
+air_1_f,"Gross intake ratio to Grade 1 of primary education, female (%)",measure
+air_1_glast,"Gross intake ratio to the last grade of primary education, both sexes (%)",measure
+air_1_glast_f,"Gross intake ratio to the last grade of primary education, female (%)",measure
+air_1_glast_gpi,"Gross intake ratio to the last grade of primary education, gender parity index (GPI)",measure
+air_1_glast_m,"Gross intake ratio to the last grade of primary education, male (%)",measure
+air_1_gpi,"Gross intake ratio to Grade 1 of primary education, gender parity index (GPI)",measure
+air_1_m,"Gross intake ratio to Grade 1 of primary education, male (%)",measure
+air_2_gpv,"Gross intake ratio to Grade 1 of lower secondary general education, both sexes (%)",measure
+air_2_gpv_f,"Gross intake ratio to Grade 1 of lower secondary general education, female (%)",measure
+air_2_gpv_glast,"Gross intake ratio to the last grade of lower secondary general education, both sexes (%)",measure
+air_2_gpv_glast_f,"Gross intake ratio to the last grade of lower secondary general education, female (%)",measure
+air_2_gpv_glast_gpi,"Gross intake ratio to the last grade of lower secondary general education, gender parity index (GPI)",measure
+air_2_gpv_glast_m,"Gross intake ratio to the last grade of lower secondary general education, male (%)",measure
+air_2_gpv_gpi,"Gross intake ratio to Grade 1 of lower secondary general education, gender parity index (GPI)",measure
+air_2_gpv_m,"Gross intake ratio to Grade 1 of lower secondary general education, male (%)",measure
+cs_1_pu,Average size of classes in primary schools (number of pupils),measure
+cs_mg_1_pu,Average size of multigrade classes in primary schools (number of pupils),measure
+cs_sg_1_g1_pu,Average size of single grade classes in Grade 1 of primary schools (number of pupils),measure
+cs_sg_1_g2_pu,Average size of single grade classes in Grade 2 of primary schools (number of pupils),measure
+cs_sg_1_g3_pu,Average size of single grade classes in Grade 3 of primary schools (number of pupils),measure
+cs_sg_1_g4_pu,Average size of single grade classes in Grade 4 of primary schools (number of pupils),measure
+cs_sg_1_g5_pu,Average size of single grade classes in Grade 5 of primary schools (number of pupils),measure
+cs_sg_1_g6_pu,Average size of single grade classes in Grade 6 of primary schools (number of pupils),measure
+cs_sg_1_g7_pu,Average size of single grade classes in Grade 7 of primary schools (number of pupils),measure
+cs_sg_1_pu,Average size of single grade classes in primary schools (number of pupils),measure
+dindnt_1,"Dissimilarity index for newly recruited teachers, primary education",measure
+dindnt_1_trained,"Dissimilarity index for trained newly recruited teachers, primary education",measure
+dindnt_2_gpv,"Dissimilarity index for newly recruited teachers, lower secondary general education",measure
+dindnt_2_gpv_trained,"Dissimilarity index for trained newly recruited teachers, lower secondary general education",measure
+dindnt_2t3_gpv,"Dissimilarity index for newly recruited teachers, total secondary general education",measure
+dindnt_2t3_gpv_trained,"Dissimilarity index for trained newly recruited teachers, total secondary general education",measure
+dindnt_3_gpv,"Dissimilarity index for newly recruited teachers, upper secondary general education",measure
+dindnt_3_gpv_trained,"Dissimilarity index for trained newly recruited teachers, upper secondary general education",measure
+dindt_1,"Dissimilarity index for all teachers, primary education",measure
+dindt_1_ag50p,"Dissimilarity index for teachers aged 50 and above, primary education",measure
+dindt_1_ea_2m,"Dissimilarity index for teachers with ISCED level less than 2, primary education",measure
+dindt_1_ea_3p,"Dissimilarity index for teachers with ISCED level higher than 3, primary education",measure
+dindt_1_exp10p,"Dissimilarity index for teachers with more than 10 years of experience, primary education",measure
+dindt_1_exp2m,"Dissimilarity index for teachers with less than 2 years of experience, primary education",measure
+dindt_1_f,"Dissimilarity index for female teachers, primary education",measure
+dindt_1_fix,"Dissimilarity index for teachers with non-permanent contract, primary education",measure
+dindt_1_pr,"Dissimilarity index for teachers in private institutions, primary education",measure
+dindt_1_pr_fix,"Dissimilarity index for teachers in private institutions with non-permanent contract, primary education",measure
+dindt_1_pu_fix,"Dissimilarity index for teachers in public institutions with non-permanent contract, primary education",measure
+dindt_1_trained,"Dissimilarity index for trained teachers, primary education",measure
+dindt_2_gpv,"Dissimilarity index for all teachers, lower secondary general education",measure
+dindt_2_gpv_ag50p,"Dissimilarity index for teachers aged 50 and above, lower secondary general education",measure
+dindt_2_gpv_ea_3m,"Dissimilarity index for teachers with ISCED level less than 3, lower secondary general",measure
+dindt_2_gpv_ea_4p,"Dissimilarity index for teachers with ISCED level higher than 4, lower secondary general",measure
+dindt_2_gpv_exp10p,"Dissimilarity index for teachers with more than 10 years of experience, lower secondary general",measure
+dindt_2_gpv_exp2m,"Dissimilarity index for teachers with less than 2 years of experience, lower secondary general",measure
+dindt_2_gpv_f,"Dissimilarity index for female teachers, lower secondary general education",measure
+dindt_2_gpv_fix,"Dissimilarity index for teachers with non-permanent contract, lower secondary general education",measure
+dindt_2_gpv_pr,"Dissimilarity index for teachers in private institutions, lower secondary general education",measure
+dindt_2_gpv_pr_fix,"Dissimilarity index for teachers in private institutions with non-permanent contract, lower secondary general education",measure
+dindt_2_gpv_pu_fix,"Dissimilarity index for teachers in public institutions with non-permanent contract, lower secondary general education",measure
+dindt_2_gpv_trained,"Dissimilarity index for trained teachers, lower secondary general education",measure
+dindt_2t3_gpv,"Dissimilarity index for all teachers, total secondary general education",measure
+dindt_2t3_gpv_ag50p,"Dissimilarity index for teachers aged 50 and above, total secondary general education",measure
+dindt_2t3_gpv_ea_4m,"Dissimilarity index for teachers with ISCED level less than 4, total secondary general",measure
+dindt_2t3_gpv_ea_5p,"Dissimilarity index for teachers with ISCED level higher than 5, total secondary general",measure
+dindt_2t3_gpv_exp10p,"Dissimilarity index for teachers with more than 10 years of experience, total secondary general",measure
+dindt_2t3_gpv_exp2m,"Dissimilarity index for teachers with less than 2 years of experience, total secondary general",measure
+dindt_2t3_gpv_f,"Dissimilarity index for female teachers, total secondary general education",measure
+dindt_2t3_gpv_fix,"Dissimilarity index for teachers with non-permanent contract, total secondary general education",measure
+dindt_2t3_gpv_math,"Dissimilarity index for all teachers, teaching mathematics, total secondary general education",measure
+dindt_2t3_gpv_pr,"Dissimilarity index for teachers in private institutions, total secondary general education",measure
+dindt_2t3_gpv_pr_fix,"Dissimilarity index for teachers in private institutions with non-permanent contract, total secondary general education",measure
+dindt_2t3_gpv_pu_fix,"Dissimilarity index for teachers in public institutions with non-permanent contract, total secondary general education",measure
+dindt_2t3_gpv_read,"Dissimilarity index for all teachers, teaching language, total secondary general education",measure
+dindt_2t3_gpv_trained,"Dissimilarity index for trained teachers, total secondary general education",measure
+dindt_3_gpv,"Dissimilarity index for all teachers, upper secondary general education",measure
+dindt_3_gpv_ag50p,"Dissimilarity index for teachers aged 50 and above, upper secondary general education",measure
+dindt_3_gpv_ea_4m,"Dissimilarity index for teachers with ISCED level less than 4, upper secondary general",measure
+dindt_3_gpv_ea_5p,"Dissimilarity index for teachers with ISCED level higher than 5, upper secondary general",measure
+dindt_3_gpv_exp10p,"Dissimilarity index for teachers with more than 10 years of experience, upper secondary general",measure
+dindt_3_gpv_exp2m,"Dissimilarity index for teachers with less than 2 years of experience, upper secondary general",measure
+dindt_3_gpv_f,"Dissimilarity index for female teachers, upper secondary general education",measure
+dindt_3_gpv_fix,"Dissimilarity index for teachers with non-permanent contract, upper secondary general education",measure
+dindt_3_gpv_pr,"Dissimilarity index for teachers in private institutions, upper secondary general education",measure
+dindt_3_gpv_pr_fix,"Dissimilarity index for teachers in private institutions with non-permanent contract, upper secondary general education",measure
+dindt_3_gpv_pu_fix,"Dissimilarity index for teachers in public institutions with non-permanent contract, upper secondary general education",measure
+dindt_3_gpv_trained,"Dissimilarity index for trained teachers, upper secondary general education",measure
+dr_1_cp,"Cumulative drop-out rate to the last grade of primary education, both sexes (%)",measure
+dr_1_f_cp,"Cumulative drop-out rate to the last grade of primary education, female (%)",measure
+dr_1_g1_cp,"Drop-out rate from Grade 1 of primary education, both sexes (%)",measure
+dr_1_g1_f_cp,"Drop-out rate from Grade 1 of primary education, female (%)",measure
+dr_1_g1_m_cp,"Drop-out rate from Grade 1 of primary education, male (%)",measure
+dr_1_g2_cp,"Drop-out rate from Grade 2 of primary education, both sexes (%)",measure
+dr_1_g2_f_cp,"Drop-out rate from Grade 2 of primary education, female (%)",measure
+dr_1_g2_m_cp,"Drop-out rate from Grade 2 of primary education, male (%)",measure
+dr_1_g3_cp,"Drop-out rate from Grade 3 of primary education, both sexes (%)",measure
+dr_1_g3_f_cp,"Drop-out rate from Grade 3 of primary education, female (%)",measure
+dr_1_g3_m_cp,"Drop-out rate from Grade 3 of primary education, male (%)",measure
+dr_1_g4_cp,"Drop-out rate from Grade 4 of primary education, both sexes (%)",measure
+dr_1_g4_f_cp,"Drop-out rate from Grade 4 of primary education, female (%)",measure
+dr_1_g4_m_cp,"Drop-out rate from Grade 4 of primary education, male (%)",measure
+dr_1_g5_cp,"Drop-out rate from Grade 5 of primary education, both sexes (%)",measure
+dr_1_g5_f_cp,"Drop-out rate from Grade 5 of primary education, female (%)",measure
+dr_1_g5_m_cp,"Drop-out rate from Grade 5 of primary education, male (%)",measure
+dr_1_g6_cp,"Drop-out rate from Grade 6 of primary education, both sexes (%)",measure
+dr_1_g6_f_cp,"Drop-out rate from Grade 6 of primary education, female (%)",measure
+dr_1_g6_m_cp,"Drop-out rate from Grade 6 of primary education, male (%)",measure
+dr_1_m_cp,"Cumulative drop-out rate to the last grade of primary education, male (%)",measure
+dr_2_cp,"Cumulative drop-out rate to the last grade of lower secondary general education, both sexes (%)",measure
+dr_2_f_cp,"Cumulative drop-out rate to the last grade of lower secondary general education, female (%)",measure
+dr_2_g1_cp,"Drop-out rate from Grade 1 of lower secondary general education, both sexes (%)",measure
+dr_2_g1_f_cp,"Drop-out rate from Grade 1 of lower secondary general education, female (%)",measure
+dr_2_g1_m_cp,"Drop-out rate from Grade 1 of lower secondary general education, male (%)",measure
+dr_2_g2_cp,"Drop-out rate from Grade 2 of lower secondary general education, both sexes (%)",measure
+dr_2_g2_f_cp,"Drop-out rate from Grade 2 of lower secondary general education, female (%)",measure
+dr_2_g2_m_cp,"Drop-out rate from Grade 2 of lower secondary general education, male (%)",measure
+dr_2_g3_cp,"Drop-out rate from Grade 3 of lower secondary general education, both sexes (%)",measure
+dr_2_g3_f_cp,"Drop-out rate from Grade 3 of lower secondary general education, female (%)",measure
+dr_2_g3_m_cp,"Drop-out rate from Grade 3 of lower secondary general education, male (%)",measure
+dr_2_g4_cp,"Drop-out rate from Grade 4 of lower secondary general education, both sexes (%)",measure
+dr_2_g4_f_cp,"Drop-out rate from Grade 4 of lower secondary general education, female (%)",measure
+dr_2_g4_m_cp,"Drop-out rate from Grade 4 of lower secondary general education, male (%)",measure
+dr_2_g5_cp,"Drop-out rate from Grade 5 of lower secondary general education, both sexes (%)",measure
+dr_2_g5_f_cp,"Drop-out rate from Grade 5 of lower secondary general education, female (%)",measure
+dr_2_g5_m_cp,"Drop-out rate from Grade 5 of lower secondary general education, male (%)",measure
+dr_2_m_cp,"Cumulative drop-out rate to the last grade of lower secondary general education, male (%)",measure
+e_5t8_foreign_org40500,"Inbound internationally mobile students from North America and Western Europe, both sexes (number)",measure
+e_5t8_foreign_org40505,"Inbound internationally mobile students from Central Asia, both sexes (number)",measure
+e_5t8_foreign_org40515,"Inbound internationally mobile students from East Asia and the Pacific, both sexes (number)",measure
+e_5t8_foreign_org40520,"Inbound internationally mobile students from Latin America and the Caribbean, both sexes (number)",measure
+e_5t8_foreign_org40525,"Inbound internationally mobile students from the Arab States, both sexes (number)",measure
+e_5t8_foreign_org40530,"Inbound internationally mobile students from Central and Eastern Europe, both sexes (number)",measure
+e_5t8_foreign_org40535,"Inbound internationally mobile students from South and West Asia, both sexes (number)",measure
+e_5t8_foreign_org40540,"Inbound internationally mobile students from sub-Saharan Africa, both sexes (number)",measure
+e_5t8_foreign_org99000000,"Inbound internationally mobile students from unknown regions, both sexes (number)",measure
+ea2mpt_1,"Percentage of teachers with ISCED level 2 or lower, primary education",measure
+ea2mpt_1_pr,"Percentage of teachers with ISCED level less than 2, primary education, private institutions",measure
+ea2mpt_1_pu,"Percentage of teachers with ISCED level less than 2, primary education, public institutions",measure
+ea5ppt_2t3_gpv,"Percentage of teachers with ISCED level higher than 5, total secondary general education",measure
+ea5ppt_2t3_gpv_pr,"Percentage of teachers with ISCED level higher than 5, total secondary general education, private institutions",measure
+ea5ppt_2t3_gpv_pu,"Percentage of teachers with ISCED level higher than 5, total secondary general education, public institutions",measure
+ea5ppt_3_gpv,"Percentage of teachers with ISCED level higher than 5, upper secondary general education",measure
+ea5ppt_3_gpv_pr,"Percentage of teachers with ISCED level higher than 5, upper secondary general education, private institutions",measure
+ea5ppt_3_gpv_pu,"Percentage of teachers with ISCED level higher than 5, upper secondary general education, public institutions",measure
+ea_1t8_ag25t99,"Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)",measure
+ea_1t8_ag25t99_f,"Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, female (%)",measure
+ea_1t8_ag25t99_gpi,"Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, gender parity index (GPI)",measure
+ea_1t8_ag25t99_m,"Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, male (%)",measure
+ea_2t8_ag25t99,"Educational attainment: at least completed lower secondary (ISCED 2 or higher), population 25+ years, both sexes (%)",measure
+ea_2t8_ag25t99_f,"Educational attainment: at least completed lower secondary (ISCED 2 or higher), population 25+ years, female (%)",measure
+ea_2t8_ag25t99_gpi,"Educational attainment: at least completed lower secondary (ISCED 2 or higher), population 25+ years, gender parity index (GPI)",measure
+ea_2t8_ag25t99_m,"Educational attainment: at least completed lower secondary (ISCED 2 or higher), population 25+ years, male (%)",measure
+ea_3t8_ag25t99,"Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)",measure
+ea_3t8_ag25t99_f,"Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, female (%)",measure
+ea_3t8_ag25t99_gpi,"Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, gender parity index (GPI)",measure
+ea_3t8_ag25t99_m,"Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, male (%)",measure
+ea_4t8_ag25t99,"Educational attainment: at least completed post-secondary (ISCED 4 or higher), population 25+ years, both sexes (%)",measure
+ea_4t8_ag25t99_f,"Educational attainment: at least completed post-secondary (ISCED 4 or higher), population 25+ years, female (%)",measure
+ea_4t8_ag25t99_gpi,"Educational attainment: at least completed post-secondary (ISCED 4 or higher), population 25+ years, gender parity index (GPI)",measure
+ea_4t8_ag25t99_m,"Educational attainment: at least completed post-secondary (ISCED 4 or higher), population 25+ years, male (%)",measure
+ea_5t8_ag25t99,"Educational attainment: at least completed short-cycle tertiary (ISCED 5 or higher), population 25+ years, both sexes (%)",measure
+ea_5t8_ag25t99_f,"Educational attainment: at least completed short-cycle tertiary (ISCED 5 or higher), population 25+ years, female (%)",measure
+ea_5t8_ag25t99_gpi,"Educational attainment: at least completed short-cycle tertiary (ISCED 5 or higher), population 25+ years, gender parity index (GPI)",measure
+ea_5t8_ag25t99_m,"Educational attainment: at least completed short-cycle tertiary (ISCED 5 or higher), population 25+ years, male (%)",measure
+ea_6t8_ag25t99,"Educational attainment: at least bachelor's or equivalent (ISCED 6 or higher), population 25+ years, both sexes (%)",measure
+ea_6t8_ag25t99_f,"Educational attainment: at least bachelor's or equivalent (ISCED 6 or higher), population 25+ years, female (%)",measure
+ea_6t8_ag25t99_gpi,"Educational attainment: at least bachelor's or equivalent (ISCED 6 or higher), population 25+ years, gender parity index (GPI)",measure
+ea_6t8_ag25t99_m,"Educational attainment: at least bachelor's or equivalent (ISCED 6 or higher), population 25+ years, male (%)",measure
+ea_7t8_ag25t99,"Educational attainment: at least master's or equivalent (ISCED 7 or higher), population 25+ years, both sexes (%)",measure
+ea_7t8_ag25t99_f,"Educational attainment: at least master's or equivalent (ISCED 7 or higher), population 25+ years, female (%)",measure
+ea_7t8_ag25t99_gpi,"Educational attainment: at least master's or equivalent (ISCED 7 or higher), population 25+ years, gender parity index (GPI)",measure
+ea_7t8_ag25t99_m,"Educational attainment: at least master's or equivalent (ISCED 7 or higher), population 25+ years, male (%)",measure
+ea_8_ag25t99,"Educational attainment: doctoral or equivalent (ISCED 8), population 25+ years, both sexes (%)",measure
+ea_8_ag25t99_f,"Educational attainment: doctoral or equivalent (ISCED 8), population 25+ years, female (%)",measure
+ea_8_ag25t99_gpi,"Educational attainment: doctoral or equivalent (ISCED 8), population 25+ years, gender parity index (GPI)",measure
+ea_8_ag25t99_m,"Educational attainment: doctoral or equivalent (ISCED 8), population 25+ years, male (%)",measure
+eadpeap_1,"Enrolment in primary education programmes for adults, expressed as a percentage of the population 15+ with no schooling or with incomplete primary education, both sexes (%)",measure
+eadpeap_1_f,"Enrolment in primary education programmes for adults, expressed as a percentage of the population 15+ with no schooling or with incomplete primary education, female (%)",measure
+eadpeap_2t3,"Enrolment in secondary education programmes for adults, expressed as a percentage of the population 20 and older with primary education or incomplete secondary, both sexes (%)",measure
+eadpeap_2t3_f,"Enrolment in secondary education programmes for adults, expressed as a percentage of the population 20 and older with primary education or incomplete secondary, female (%)",measure
+ecdp_1,"Percentage of new entrants to Grade 1 of primary education with early childhood education experience, both sexes (%)",measure
+ecdp_1_f,"Percentage of new entrants to Grade 1 of primary education with early childhood education experience, female (%)",measure
+ecdp_1_gpi,"Percentage of new entrants to Grade 1 of primary education with early childhood education experience, gender parity index (GPI)",measure
+ecdp_1_m,"Percentage of new entrants to Grade 1 of primary education with early childhood education experience, male (%)",measure
+ecp_mg_1_pu,Percentage of primary pupils in multigrade classes (%),measure
+esl_1_cp,"Early school leavers from primary education, both sexes (number)",measure
+esl_1_f_cp,"Early school leavers from primary education, female (number)",measure
+esl_1_m_cp,"Early school leavers from primary education, male (number)",measure
+fep_0,Percentage of students in early childhood education who are female (%),measure
+fep_01,Percentage of students in  early childhood educational development programmes who are female (%),measure
+fep_02,Percentage of students in pre-primary education who are female (%),measure
+fep_1,Percentage of students in primary education who are female (%),measure
+fep_2,Percentage of students in lower secondary education who are female (%),measure
+fep_2_gpv,Percentage of students in lower secondary general education who are female (%),measure
+fep_2_v,Percentage of students in lower secondary vocational education who are female (%),measure
+fep_2t3,Percentage of students in secondary education who are female (%),measure
+fep_2t3_gpv,Percentage of students in secondary general education who are female (%),measure
+fep_2t3_v,Percentage of students in secondary vocational education who are female (%),measure
+fep_3,Percentage of students in upper secondary education who are female (%),measure
+fep_3_gpv,Percentage of students in upper secondary general education who are female (%),measure
+fep_3_v,Percentage of students in upper secondary vocational education who are female (%),measure
+fep_4,Percentage of students in post-secondary non-tertiary education who are female (%),measure
+fep_4_gpv,Percentage of students in post-secondary non-tertiary general education who are female (%),measure
+fep_4_v,Percentage of students in post-secondary non-tertiary vocational education who are female (%),measure
+fep_5,Percentage of students in tertiary ISCED 5 programmes who are female (%),measure
+fep_5t8,Percentage of students in tertiary education who are female (%),measure
+fep_5t8_f140,Percentage of students enrolled in Education programmes in tertiary education who are female (%),measure
+fep_5t8_f200,Percentage of students enrolled in Humanities and Arts programmes in tertiary education who are female (%),measure
+fep_5t8_f300,"Percentage of students enrolled in Social Sciences, Business and Law programmes in tertiary education who are female (%)",measure
+fep_5t8_f400,Percentage of students enrolled in Science programmes in tertiary education who are female (%),measure
+fep_5t8_f500,"Percentage of students enrolled in Engineering, Manufacturing and Construction programmes in tertiary education who are female (%)",measure
+fep_5t8_f600,Percentage of students enrolled in Agriculture programmes in tertiary education who are female (%),measure
+fep_5t8_f700,Percentage of students enrolled in Health and Welfare programmes in tertiary education who are female (%),measure
+fep_5t8_f800,Percentage of students enrolled in Services programmes in tertiary education who are female (%),measure
+fep_5t8_foreign,"Percentage of all inbound internationally mobile students in tertiary education in the host country who are female, (%)",measure
+fep_5t8_fuk,Percentage of students enrolled in programmes in unspecified fields in tertiary education who are female (%),measure
+fep_6,Percentage of students in tertiary ISCED 6 programmes who are female (%),measure
+fep_7,Percentage of students in tertiary ISCED 7 programmes who are female (%),measure
+fep_8,Percentage of students in tertiary ISCED 8 programmes who are female (%),measure
+fgp_5,Percentage of graduates from tertiary ISCED 5 programmes who are female (%),measure
+fgp_5t8,Percentage of graduates from tertiary education who are female (%),measure
+fgp_5t8_f140,Percentage of graduates from Education programmes in tertiary education who are female (%),measure
+fgp_5t8_f200,Percentage of graduates from Humanities and Arts programmes in tertiary education who are female (%),measure
+fgp_5t8_f300,"Percentage of graduates from Social Sciences, Business and Law programmes in tertiary education who are female (%)",measure
+fgp_5t8_f400,Percentage of graduates from Science programmes in tertiary education who are female (%),measure
+fgp_5t8_f400500,Percentage of graduates from Science and Technology programmes in tertiary education who are female (%),measure
+fgp_5t8_f500,"Percentage of graduates from Engineering, Manufacturing and Construction programmes in tertiary education who are female (%)",measure
+fgp_5t8_f600,Percentage of graduates from Agriculture programmes in tertiary education who are female (%),measure
+fgp_5t8_f700,Percentage of graduates from Health and Welfare programmes in tertiary education who are female (%),measure
+fgp_5t8_f800,Percentage of graduates from Services programmes in tertiary education who are female (%),measure
+fgp_5t8_fnon400500,Percentage of graduates from Other Fields in tertiary education who are female (%),measure
+fgp_5t8_fuk,Percentage of graduates from programmes in unspecified fields in tertiary education who are female (%),measure
+fgp_6,Percentage of graduates from tertiary ISCED 6 programmes who are female (%),measure
+fgp_7,Percentage of graduates from tertiary ISCED 7 programmes who are female (%),measure
+fgp_8,Percentage of graduates from tertiary ISCED 8 programmes who are female (%),measure
+fixtp_1_pr,"Percentage of teachers with non-permanent contract, primary education, private institutions",measure
+fixtp_1_pu,"Percentage of teachers with non-permanent contract, primary education, public institutions",measure
+fixtp_2_gpv,"Percentage of teachers with non-permanent contract, lower secondary general",measure
+fixtp_2_gpv_pr,"Percentage of teachers with non-permanent contract, lower secondary general, private institutions",measure
+fixtp_2_gpv_pu,"Percentage of teachers with non-permanent contract, lower secondary general, public institutions",measure
+fixtp_2t3_gpv_pr,"Percentage of teachers with non-permanent contract, total secondary general, private institutions",measure
+fixtp_2t3_gpv_pu,"Percentage of teachers with non-permanent contract, total secondary general, public institutions",measure
+fixtp_3_gpv,"Percentage of teachers with non-permanent contract, upper secondary general",measure
+fixtp_3_gpv_pr,"Percentage of teachers with non-permanent contract, upper secondary general, private institutions",measure
+fixtp_3_gpv_pu,"Percentage of teachers with non-permanent contract, upper secondary general, public institutions",measure
+fnp_1,"New entrants to Grade 1 of primary education, percentage female (%)",measure
+fntp_1,Percentage of newly recruited teachers in primary education who are female (%),measure
+fntp_2,Percentage of newly recruited teachers in lower secondary education who are female (%),measure
+fntp_3,Percentage of newly recruited teachers in upper secondary education who are female (%),measure
+fofstp_1,"Out-of-school children of primary school age, percentage female (%)",measure
+fofstp_2,"Out-of-school adolescents of lower secondary school age, percentage female (%)",measure
+fosep_5t8_f140,"Percentage of students in tertiary education enrolled in Education programmes, both sexes (%)",measure
+fosep_5t8_f140_f,"Percentage of female students in tertiary education enrolled in Education programmes, female (%)",measure
+fosep_5t8_f140_m,"Percentage of male students in tertiary education enrolled in Education programmes, male (%)",measure
+fosep_5t8_f200,"Percentage of students in tertiary education enrolled in Humanities and Arts programmes, both sexes (%)",measure
+fosep_5t8_f200_f,"Percentage of female students in tertiary education enrolled in Humanities and Arts programmes, female  (%)",measure
+fosep_5t8_f200_m,"Percentage of male students in tertiary education enrolled in Humanities and Arts programmes, male (%)",measure
+fosep_5t8_f300,"Percentage of students in tertiary education enrolled in Social Sciences, Business and Law programmes, both sexes (%)",measure
+fosep_5t8_f300_f,"Percentage of female students in tertiary educationenrolled in Social Sciences, Business and Law programmes, female  (%)",measure
+fosep_5t8_f300_m,"Percentage of male students in tertiary education enrolled in Social Sciences, Business and Law programmes, male (%)",measure
+fosep_5t8_f400,"Percentage of students in tertiary education enrolled in Science programmes, both sexes (%)",measure
+fosep_5t8_f400_f,"Percentage of female students in tertiary education enrolled in Science programmes, female (%)",measure
+fosep_5t8_f400_m,"Percentage of male students in tertiary education enrolled in Science programmes, male (%)",measure
+fosep_5t8_f500,"Percentage of students in tertiary education enrolled in Engineering, Manufacturing and Construction programmes, both sexes (%)",measure
+fosep_5t8_f500_f,"Percentage of female students in tertiary education enrolled in Engineering, Manufacturing and Construction programmes, female (%)",measure
+fosep_5t8_f500_m,"Percentage of male students in tertiary education enrolled in Engineering, Manufacturing and Construction programmes, male (%)",measure
+fosep_5t8_f600,"Percentage of students in tertiary education enrolled in Agriculture programmes, both sexes (%)",measure
+fosep_5t8_f600_f,"Percentage of female students in tertiary education enrolled in Agriculture programmes, female (%)",measure
+fosep_5t8_f600_m,"Percentage of male students in tertiary education enrolled in Agriculture programmes, male (%)",measure
+fosep_5t8_f700,"Percentage of students in tertiary education enrolled in Health and Welfare programmes, both sexes (%)",measure
+fosep_5t8_f700_f,"Percentage of female students in tertiary education enrolled in Health and Welfare programmes, female (%)",measure
+fosep_5t8_f700_m,"Percentage of male students in tertiary education enrolled in Health and Welfare programmes, male (%)",measure
+fosep_5t8_f800,"Percentage of students in tertiary education enrolled in Services programmes, both sexes (%)",measure
+fosep_5t8_f800_f,"Percentage of female students in tertiary education enrolled in Services programmes, female (%)",measure
+fosep_5t8_f800_m,"Percentage of male students in tertiary education enrolled in Services programmes, male (%)",measure
+fosep_5t8_fuk,"Percentage of students in tertiary education enrolled in programmes in unspecified fields, both sexes (%)",measure
+fosep_5t8_fuk_f,"Percentage of female students in tertiary education enrolled in programmes in unspecified fields, female (%)",measure
+fosep_5t8_fuk_m,"Percentage of male students in tertiary education enrolled in programmes in unspecified fields, male (%)",measure
+fosgp_5t8_f140,"Percentage of graduates from tertiary education graduating from Education programmes, both sexes (%)",measure
+fosgp_5t8_f140_f,"Percentage of female graduates from tertiary education graduating from Education programmes, female (%)",measure
+fosgp_5t8_f140_m,"Percentage of male graduates from tertiary education graduating from Education programmes, male (%)",measure
+fosgp_5t8_f200,"Percentage of graduates from tertiary education graduating from Humanities and Arts programmes, both sexes (%)",measure
+fosgp_5t8_f200_f,"Percentage of female graduates from tertiary education graduating from Humanities and Arts programmes, female  (%)",measure
+fosgp_5t8_f200_m,"Percentage of male graduates from tertiary education graduating from Humanities and Arts programmes, male (%)",measure
+fosgp_5t8_f300,"Percentage of graduates from tertiary education graduating from Social Sciences, Business and Law programmes, both sexes (%)",measure
+fosgp_5t8_f300_f,"Percentage of female graduates from tertiary education graduating from Social Sciences, Business and Law programmes, female  (%)",measure
+fosgp_5t8_f300_m,"Percentage of male graduates from tertiary education graduating from Social Sciences, Business and Law programmes, male (%)",measure
+fosgp_5t8_f400,"Percentage of graduates from tertiary education graduating from Science programmes, both sexes (%)",measure
+fosgp_5t8_f400_f,"Percentage of female graduates from tertiary education graduating from Science programmes, female (%)",measure
+fosgp_5t8_f400_m,"Percentage of male graduates from tertiary education graduating from Science programmes, male (%)",measure
+fosgp_5t8_f500,"Percentage of graduates from tertiary education graduating from Engineering, Manufacturing and Construction programmes, both sexes (%)",measure
+fosgp_5t8_f500_f,"Percentage of female graduates from tertiary education graduating from Engineering, Manufacturing and Construction programmes, female (%)",measure
+fosgp_5t8_f500_m,"Percentage of male graduates from tertiary education graduating from Engineering, Manufacturing and Construction programmes, male (%)",measure
+fosgp_5t8_f600,"Percentage of graduates from tertiary education graduating from Agriculture programmes, both sexes (%)",measure
+fosgp_5t8_f600_f,"Percentage of female graduates from tertiary education graduating from Agriculture programmes, female (%)",measure
+fosgp_5t8_f600_m,"Percentage of male graduates from tertiary education graduating from Agriculture programmes, male (%)",measure
+fosgp_5t8_f700,"Percentage of graduates from tertiary education graduating from Health and Welfare programmes, both sexes (%)",measure
+fosgp_5t8_f700_f,"Percentage of female graduates from tertiary education graduating from Health and Welfare programmes, female (%)",measure
+fosgp_5t8_f700_m,"Percentage of male graduates from tertiary education graduating from Health and Welfare programmes, male (%)",measure
+fosgp_5t8_f800,"Percentage of graduates from tertiary education graduating from Services programmes, both sexes (%)",measure
+fosgp_5t8_f800_f,"Percentage of female graduates from tertiary education graduating from Services programmes, female (%)",measure
+fosgp_5t8_f800_m,"Percentage of male graduates from tertiary education graduating from Services programmes, male (%)",measure
+fosgp_5t8_fuk,"Percentage of graduates from tertiary education graduating from programmes in unspecified fields, both sexes (%)",measure
+fosgp_5t8_fuk_f,"Percentage of female graduates from tertiary education graduating from programmes in unspecified fields, female (%)",measure
+fosgp_5t8_fuk_m,"Percentage of male graduates from tertiary education graduating from programmes in unspecified fields, male (%)",measure
+ftp_02,Percentage of teachers in pre-primary education who are female (%),measure
+ftp_1,Percentage of teachers in primary education who are female (%),measure
+ftp_1_max,"Percentage of female teachers, primary education, maximum regional value",measure
+ftp_1_max_min,"Maximum/Minimum ratio, percentage of female teachers, primary education, regional level",measure
+ftp_1_min,"Percentage of female teachers, primary education, minimum regional value",measure
+ftp_2,Percentage of teachers in lower secondary education who are female (%),measure
+ftp_2_gpv_max,"Percentage of female teachers, lower secondary general education, maximum regional value",measure
+ftp_2_gpv_max_min,"Maximum/Minimum ratio, percentage of female teachers, lower secondary general education, regional level",measure
+ftp_2_gpv_min,"Percentage of female teachers, lower secondary general education, minimum regional value",measure
+ftp_2t3,Percentage of teachers in secondary education who are female (%),measure
+ftp_2t3_gpv_max,"Percentage of female teachers, total secondary general education, maximum regional value",measure
+ftp_2t3_gpv_max_min,"Maximum/Minimum ratio, percentage of female teachers, total secondary general education, regional level",measure
+ftp_2t3_gpv_min,"Percentage of female teachers, total secondary general education, minimum regional value",measure
+ftp_3,Percentage of teachers in upper secondary education who are female (%),measure
+ftp_3_gpv_max,"Percentage of female teachers, upper secondary general education, maximum regional value",measure
+ftp_3_gpv_max_min,"Maximum/Minimum ratio, percentage of female teachers, upper secondary general education, regional level",measure
+ftp_3_gpv_min,"Percentage of female teachers, upper secondary general education, minimum regional value",measure
+ftp_4,Percentage of teachers in post-secondary non-tertiary education who are female (%),measure
+ftp_5t8,Percentage of teachers in tertiary education who are female (%),measure
+ger_02,"Gross enrolment ratio, pre-primary, both sexes (%)",measure
+ger_02_f,"Gross enrolment ratio, pre-primary, female (%)",measure
+ger_02_gpi,"Gross enrolment ratio, pre-primary, gender parity index (GPI)",measure
+ger_02_m,"Gross enrolment ratio, pre-primary, male (%)",measure
+ger_1,"Gross enrolment ratio, primary, both sexes (%)",measure
+ger_1_f,"Gross enrolment ratio, primary, female (%)",measure
+ger_1_gpi,"Gross enrolment ratio, primary, gender parity index (GPI)",measure
+ger_1_m,"Gross enrolment ratio, primary, male (%)",measure
+ger_1t2,"Gross enrolment ratio, primary and lower secondary, both sexes (%)",measure
+ger_1t2_f,"Gross enrolment ratio, primary and lower secondary, female (%)",measure
+ger_1t2_gpi,"Gross enrolment ratio, primary and lower secondary, gender parity index (GPI)",measure
+ger_1t2_m,"Gross enrolment ratio, primary and lower secondary, male (%)",measure
+ger_1t3,"Gross enrolment ratio, primary and secondary, both sexes (%)",measure
+ger_1t3_f,"Gross enrolment ratio, primary and secondary, female (%)",measure
+ger_1t3_gpi,"Gross enrolment ratio, primary and secondary, gender parity index (GPI)",measure
+ger_1t3_m,"Gross enrolment ratio, primary and secondary, male (%)",measure
+ger_1t8,"Gross enrolment ratio, primary to tertiary, both sexes (%)",measure
+ger_1t8_f,"Gross enrolment ratio, primary to tertiary, female (%)",measure
+ger_1t8_gpi,"Gross enrolment ratio, primary to tertiary, gender parity index (GPI)",measure
+ger_1t8_m,"Gross enrolment ratio, primary to tertiary, male (%)",measure
+ger_2,"Gross enrolment ratio, lower secondary, both sexes (%)",measure
+ger_2_f,"Gross enrolment ratio, lower secondary, female (%)",measure
+ger_2_gpi,"Gross enrolment ratio, lower secondary, gender parity index (GPI)",measure
+ger_2_m,"Gross enrolment ratio, lower secondary, male (%)",measure
+ger_2t3,"Gross enrolment ratio, secondary, both sexes (%)",measure
+ger_2t3_f,"Gross enrolment ratio, secondary, female (%)",measure
+ger_2t3_gpi,"Gross enrolment ratio, secondary, gender parity index (GPI)",measure
+ger_2t3_m,"Gross enrolment ratio, secondary, male (%)",measure
+ger_3,"Gross enrolment ratio, upper secondary, both sexes (%)",measure
+ger_3_f,"Gross enrolment ratio, upper secondary, female (%)",measure
+ger_3_gpi,"Gross enrolment ratio, upper secondary, gender parity index (GPI)",measure
+ger_3_m,"Gross enrolment ratio, upper secondary, male (%)",measure
+ger_4,"Gross enrolment ratio, post-secondary non-tertiary, both sexes (%)",measure
+ger_4_f,"Gross enrolment ratio, post-secondary non-tertiary, female (%)",measure
+ger_4_gpi,"Gross enrolment ratio, post-secondary non-tertiary, gender parity index (GPI)",measure
+ger_4_m,"Gross enrolment ratio, post-secondary non-tertiary, male (%)",measure
+ger_5t8,"Gross enrolment ratio, tertiary, both sexes (%)",measure
+ger_5t8_f,"Gross enrolment ratio, tertiary, female (%)",measure
+ger_5t8_gpi,"Gross enrolment ratio, tertiary, gender parity index (GPI)",measure
+ger_5t8_m,"Gross enrolment ratio, tertiary, male (%)",measure
+ggr_1,"Gross graduation ratio from primary education, both sexes (%)",measure
+ggr_1_f,"Gross graduation ratio from primary education, female (%)",measure
+ggr_1_gpi,"Gross graduation ratio from primary education, gender parity index (GPI)",measure
+ggr_1_m,"Gross graduation ratio from primary education, male (%)",measure
+ggr_2,"Gross graduation ratio from lower secondary education, both sexes (%)",measure
+ggr_2_f,"Gross graduation ratio from lower secondary education, female (%)",measure
+ggr_2_gpi,"Gross graduation ratio from lower secondary education, gender parity index (GPI)",measure
+ggr_2_m,"Gross graduation ratio from lower secondary education, male (%)",measure
+ggr_6t7,"Gross graduation ratio from first degree programmes (ISCED 6 and 7) in tertiary education, both sexes (%)",measure
+ggr_6t7_f,"Gross graduation ratio from first degree programmes (ISCED 6 and 7) in tertiary education, female (%)",measure
+ggr_6t7_gpi,"Gross graduation ratio from first degree programmes (ISCED 6 and 7) in tertiary education, gender parity index (GPI)",measure
+ggr_6t7_m,"Gross graduation ratio from first degree programmes (ISCED 6 and 7) in tertiary education, male (%)",measure
+gtctr_1,"Ratio of teacher training graduates to teachers in primary education, both sexes",measure
+gtctr_1_f,"Ratio of teacher training graduates to teachers in primary education, female",measure
+gtctr_1_m,"Ratio of teacher training graduates to teachers in primary education, male",measure
+gtctr_2,"Ratio of teacher training graduates to teachers in lower secondary education, both sexes",measure
+gtctr_2_f,"Ratio of teacher training graduates to teachers in lower secondary education, female",measure
+gtctr_2_m,"Ratio of teacher training graduates to teachers in lower secondary education, male",measure
+gtctr_3,"Ratio of teacher training graduates to teachers in upper secondary education, both sexes",measure
+gtctr_3_f,"Ratio of teacher training graduates to teachers in upper secondary education, female",measure
+gtctr_3_m,"Ratio of teacher training graduates to teachers in upper secondary education, male",measure
+gtvp_2_gpv,"Percentage of students in lower secondary education enrolled in general programmes, both sexes (%)",measure
+gtvp_2_gpv_f,"Percentage of female students in lower secondary education enrolled in general programmes, female (%)",measure
+gtvp_2_gpv_m,"Percentage of male students in lower secondary education enrolled in general programmes, male (%)",measure
+gtvp_2_v,"Percentage of students in lower secondary education enrolled in vocational programmes, both sexes (%)",measure
+gtvp_2_v_f,"Percentage of female students in lower secondary education enrolled in vocational programmes, female (%)",measure
+gtvp_2_v_m,"Percentage of male students in lower secondary education enrolled in vocational programmes, male (%)",measure
+gtvp_2t3_gpv,"Percentage of students in secondary education enrolled in general programmes, both sexes (%)",measure
+gtvp_2t3_gpv_f,"Percentage of female students in secondary education enrolled in general programmes, female (%)",measure
+gtvp_2t3_gpv_m,"Percentage of male students in secondary education enrolled in general programmes, male (%)",measure
+gtvp_2t3_v,"Percentage of students in secondary education enrolled in vocational programmes, both sexes (%)",measure
+gtvp_2t3_v_f,"Percentage of female students in secondary education enrolled in vocational programmes, female (%)",measure
+gtvp_2t3_v_m,"Percentage of male students in secondary education enrolled in vocational programmes, male (%)",measure
+gtvp_3_gpv,"Percentage of students in upper secondary education enrolled in general programmes, both sexes (%)",measure
+gtvp_3_gpv_f,"Percentage of female students in upper secondary education enrolled in general programmes, female (%)",measure
+gtvp_3_gpv_m,"Percentage of male students in upper secondary education enrolled in general programmes, male (%)",measure
+gtvp_3_v,"Percentage of students in upper secondary education enrolled in vocational programmes, both sexes (%)",measure
+gtvp_3_v_f,"Percentage of female students in upper secondary education enrolled in vocational programmes, female (%)",measure
+gtvp_3_v_m,"Percentage of male students in upper secondary education enrolled in vocational programmes, male (%)",measure
+gtvp_4_gpv,"Percentage of students in post-secondary non-tertiary education enrolled in general programmes, both sexes (%)",measure
+gtvp_4_gpv_f,"Percentage of female students in post-secondary non-tertiary education enrolled in general programmes, female (%)",measure
+gtvp_4_gpv_m,"Percentage of male students in post-secondary non-tertiary education enrolled in general programmes, male (%)",measure
+gtvp_4_v,"Percentage of students in post-secondary non-tertiary education enrolled in vocational programmes, both sexes (%)",measure
+gtvp_4_v_f,"Percentage of female students in post-secondary non-tertiary education enrolled in vocational programmes, female (%)",measure
+gtvp_4_v_m,"Percentage of male students in post-secondary non-tertiary education enrolled in vocational programmes, male (%)",measure
+illpop_ag15t24,"Youth illiterate population, 15-24 years, both sexes (number)",measure
+illpop_ag15t24_f,"Youth illiterate population, 15-24 years, female (number)",measure
+illpop_ag15t24_m,"Youth illiterate population, 15-24 years, male (number)",measure
+illpop_ag15t99,"Adult illiterate population, 15+ years, both sexes (number)",measure
+illpop_ag15t99_f,"Adult illiterate population, 15+ years, female (number)",measure
+illpop_ag15t99_m,"Adult illiterate population, 15+ years, male (number)",measure
+illpop_ag25t64,"Illiterate population, 25-64 years, both sexes (number)",measure
+illpop_ag25t64_f,"Illiterate population, 25-64 years, female (number)",measure
+illpop_ag25t64_m,"Illiterate population, 25-64 years, male (number)",measure
+illpop_ag65t99,"Elderly illiterate population, 65+ years, both sexes (number)",measure
+illpop_ag65t99_f,"Elderly illiterate population, 65+ years, female (number)",measure
+illpop_ag65t99_m,"Elderly illiterate population, 65+ years, male (number)",measure
+illpopf_ag15t24,"Youth illiterate population, 15-24 years, % female",measure
+illpopf_ag15t99,"Adult illiterate population, 15+ years, % female",measure
+illpopf_ag25t64,"Illiterate population, 25-64 years, % female",measure
+illpopf_ag65t99,"Elderly illiterate population, 65+ years, % female",measure
+lr_ag15t24,"Youth literacy rate, population 15-24 years, both sexes (%)",measure
+lr_ag15t24_f,"Youth literacy rate, population 15-24 years, female (%)",measure
+lr_ag15t24_gpi,"Youth literacy rate, population 15-24 years, gender parity index (GPI)",measure
+lr_ag15t24_m,"Youth literacy rate, population 15-24 years, male (%)",measure
+lr_ag15t99,"Adult literacy rate, population 15+ years, both sexes (%)",measure
+lr_ag15t99_f,"Adult literacy rate, population 15+ years, female (%)",measure
+lr_ag15t99_gpi,"Adult literacy rate, population 15+ years, gender parity index (GPI)",measure
+lr_ag15t99_m,"Adult literacy rate, population 15+ years, male (%)",measure
+lr_ag25t64,"Literacy rate, population 25-64 years, both sexes (%)",measure
+lr_ag25t64_f,"Literacy rate, population 25-64 years, female (%)",measure
+lr_ag25t64_gpi,"Literacy rate, population 25-64 years, gender parity index (GPI)",measure
+lr_ag25t64_m,"Literacy rate, population 25-64 years, male (%)",measure
+lr_ag65t99,"Elderly literacy rate, population 65+ years, both sexes (%)",measure
+lr_ag65t99_f,"Elderly literacy rate, population 65+ years, female (%)",measure
+lr_ag65t99_gpi,"Elderly literacy rate, population 65+ years, gender parity index (GPI)",measure
+lr_ag65t99_m,"Elderly literacy rate, population 65+ years, male (%)",measure
+maget_1,"Mean age of the teaching workforce, primary education",measure
+maget_1_pr,"Mean age of the teaching workforce, primary education, Private",measure
+maget_1_pu,"Mean age of the teaching workforce, primary education, Public",measure
+maget_2_gpv,"Mean age of the teaching workforce, lower secondary general education",measure
+maget_2_gpv_pr,"Mean age of the teaching workforce,lower secondary general, Private",measure
+maget_2_gpv_pu,"Mean age of the teaching workforce,lower secondary general, Public",measure
+maget_2t3_gpv,"Mean age of the teaching workforce, total secondary general education",measure
+maget_2t3_gpv_pr,"Mean age of the teaching workforce,total secondary general, Private",measure
+maget_2t3_gpv_pu,"Mean age of the teaching workforce,total secondary general, Public",measure
+maget_3_gpv,"Mean age of the teaching workforce, upper secondary general education",measure
+maget_3_gpv_pr,"Mean age of the teaching workforce,upper secondary general, Private",measure
+maget_3_gpv_pu,"Mean age of the teaching workforce,upper secondary general, Public",measure
+menf_5t8,"Net flow of internationally mobile students (inbound - outbound), both sexes (number)",measure
+menfr_5t8,"Net flow ratio of internationally mobile students (inbound - outbound), both sexes (%)",measure
+mexpt_1,"Mean teaching experience of the teaching workforce, primary education",measure
+mexpt_1_pr,"Mean teaching experience of the teaching workforce, primary education, Private",measure
+mexpt_1_pu,"Mean teaching experience of the teaching workforce, primary education, Public",measure
+mexpt_2_gpv,"Mean teaching experience of the teaching workforce, lower secondary general education",measure
+mexpt_2_gpv_pr,"Mean teaching experience of the teaching workforce,lower secondary general, Private",measure
+mexpt_2_gpv_pu,"Mean teaching experience of the teaching workforce,lower secondary general, Public",measure
+mexpt_2t3_gpv,"Mean teaching experience of the teaching workforce, total secondary general education",measure
+mexpt_2t3_gpv_pr,"Mean teaching experience of the teaching workforce,total secondary general, Private",measure
+mexpt_2t3_gpv_pu,"Mean teaching experience of the teaching workforce,total secondary general, Public",measure
+mexpt_3_gpv,"Mean teaching experience of the teaching workforce, upper secondary general education",measure
+mexpt_3_gpv_pr,"Mean teaching experience of the teaching workforce,upper secondary general, Private",measure
+mexpt_3_gpv_pu,"Mean teaching experience of the teaching workforce,upper secondary general, Public",measure
+moger_5t8_40500,"Gross outbound enrolment ratio to North America and Western Europe, both sexes (%)",measure
+moger_5t8_40505,"Gross outbound enrolment ratio to Central Asia, both sexes (%)",measure
+moger_5t8_40510,"Gross outbound enrolment ratio, all regions, both sexes (%)",measure
+moger_5t8_40515,"Gross outbound enrolment ratio to East Asia and the Pacific, both sexes (%)",measure
+moger_5t8_40520,"Gross outbound enrolment ratio to Latin America and the Caribbean, both sexes (%)",measure
+moger_5t8_40525,"Gross outbound enrolment ratio to the Arab States, both sexes (%)",measure
+moger_5t8_40530,"Gross outbound enrolment ratio to Central and Eastern Europe, both sexes (%)",measure
+moger_5t8_40535,"Gross outbound enrolment ratio to South and West Asia, both sexes (%)",measure
+moger_5t8_40540,"Gross outbound enrolment ratio to sub-Saharan Africa, both sexes (%)",measure
+mor_5t8_40500,"Outbound mobility ratio to North America and Western Europe, both sexes (%)",measure
+mor_5t8_40505,"Outbound mobility ratio to Central Asia, both sexes (%)",measure
+mor_5t8_40510,"Outbound mobility ratio, all regions, both sexes (%)",measure
+mor_5t8_40515,"Outbound mobility ratio to East Asia and the Pacific, both sexes (%)",measure
+mor_5t8_40520,"Outbound mobility ratio to Latin America and the Caribbean, both sexes (%)",measure
+mor_5t8_40525,"Outbound mobility ratio to the Arab States, both sexes (%)",measure
+mor_5t8_40530,"Outbound mobility ratio to Central and Eastern Europe, both sexes (%)",measure
+mor_5t8_40535,"Outbound mobility ratio to South and West Asia, both sexes (%)",measure
+mor_5t8_40540,"Outbound mobility ratio to sub-Saharan Africa, both sexes (%)",measure
+msep_5t8,"Inbound mobility rate, both sexes (%)",measure
+msep_5t8_f,"Inbound mobility rate, female (%)",measure
+msep_5t8_m,"Inbound mobility rate, male (%)",measure
+mys_1t8_ag25t99,"Mean years of schooling (ISCED 1 or higher), population 25+ years, both sexes",measure
+mys_1t8_ag25t99_f,"Mean years of schooling (ISCED 1 or higher), population 25+ years, female",measure
+mys_1t8_ag25t99_m,"Mean years of schooling (ISCED 1 or higher), population 25+ years, male",measure
+nar_1,"Net attendance rate, primary, both sexes (%)",measure
+nar_1_f,"Net attendance rate, primary, female (%)",measure
+nar_1_gpi,"Net attendance rate, primary, gender parity index (GPI)",measure
+nar_1_m,"Net attendance rate, primary, male (%)",measure
+nar_1_q1,"Net attendance rate, primary, poorest quintile, both sexes (%)",measure
+nar_1_q1_f,"Net attendance rate, primary, poorest quintile, female (%)",measure
+nar_1_q1_gpi,"Net attendance rate, primary, poorest quintile, gender parity index (GPI)",measure
+nar_1_q1_m,"Net attendance rate, primary, poorest quintile, male (%)",measure
+nar_1_q2,"Net attendance rate, primary, second quintile, both sexes (%)",measure
+nar_1_q2_f,"Net attendance rate, primary, second quintile, female (%)",measure
+nar_1_q2_gpi,"Net attendance rate, primary, second quintile, gender parity index (GPI)",measure
+nar_1_q2_m,"Net attendance rate, primary, second quintile, male (%)",measure
+nar_1_q3,"Net attendance rate, primary, middle quintile, both sexes (%)",measure
+nar_1_q3_f,"Net attendance rate, primary, middle quintile, female (%)",measure
+nar_1_q3_gpi,"Net attendance rate, primary, middle quintile, gender parity index (GPI)",measure
+nar_1_q3_m,"Net attendance rate, primary, middle quintile, male (%)",measure
+nar_1_q4,"Net attendance rate, primary, fourth quintile, both sexes (%)",measure
+nar_1_q4_f,"Net attendance rate, primary, fourth quintile, female (%)",measure
+nar_1_q4_gpi,"Net attendance rate, primary, fourth quintile, gender parity index (GPI)",measure
+nar_1_q4_m,"Net attendance rate, primary, fourth quintile, male (%)",measure
+nar_1_q5,"Net attendance rate, primary, richest quintile, both sexes (%)",measure
+nar_1_q5_f,"Net attendance rate, primary, richest quintile, female (%)",measure
+nar_1_q5_gpi,"Net attendance rate, primary, richest quintile, gender parity index (GPI)",measure
+nar_1_q5_m,"Net attendance rate, primary, richest quintile, male (%)",measure
+nar_1_rur,"Net attendance rate, primary, rural, both sexes (%)",measure
+nar_1_rur_f,"Net attendance rate, primary, rural, female (%)",measure
+nar_1_rur_gpi,"Net attendance rate, primary, rural, gender parity index (GPI)",measure
+nar_1_rur_m,"Net attendance rate, primary, rural, male  (%)",measure
+nar_1_urb,"Net attendance rate, primary, urban, both sexes (%)",measure
+nar_1_urb_f,"Net attendance rate, primary, urban, female (%)",measure
+nar_1_urb_gpi,"Net attendance rate, primary, urban, gender parity index (GPI)",measure
+nar_1_urb_m,"Net attendance rate, primary, urban, male  (%)",measure
+nar_2,"Net attendance rate, lower secondary, both sexes (%)",measure
+nar_2_f,"Net attendance rate, lower secondary, female (%)",measure
+nar_2_gpi,"Net attendance rate, lower secondary, gender parity index (GPI)",measure
+nar_2_m,"Net attendance rate, lower secondary, male (%)",measure
+nar_2_q1,"Net attendance rate, lower secondary, poorest quintile, both sexes (%)",measure
+nar_2_q1_f,"Net attendance rate, lower secondary, poorest quintile, female (%)",measure
+nar_2_q1_gpi,"Net attendance rate, lower secondary, poorest quintile, gender parity index (GPI)",measure
+nar_2_q1_m,"Net attendance rate, lower secondary, poorest quintile, male (%)",measure
+nar_2_q2,"Net attendance rate, lower secondary, second quintile, both sexes (%)",measure
+nar_2_q2_f,"Net attendance rate, lower secondary, second quintile, female (%)",measure
+nar_2_q2_gpi,"Net attendance rate, lower secondary, second quintile, gender parity index (GPI)",measure
+nar_2_q2_m,"Net attendance rate, lower secondary, second quintile, male (%)",measure
+nar_2_q3,"Net attendance rate, lower secondary, middle quintile, both sexes (%)",measure
+nar_2_q3_f,"Net attendance rate, lower secondary, middle quintile, female (%)",measure
+nar_2_q3_gpi,"Net attendance rate, lower secondary, middle quintile, gender parity index (GPI)",measure
+nar_2_q3_m,"Net attendance rate, lower secondary, middle quintile, male (%)",measure
+nar_2_q4,"Net attendance rate, lower secondary, fourth quintile, both sexes (%)",measure
+nar_2_q4_f,"Net attendance rate, lower secondary, fourth quintile, female (%)",measure
+nar_2_q4_gpi,"Net attendance rate, lower secondary, fourth quintile, gender parity index (GPI)",measure
+nar_2_q4_m,"Net attendance rate, lower secondary, fourth quintile, male (%)",measure
+nar_2_q5,"Net attendance rate, lower secondary, richest quintile, both sexes (%)",measure
+nar_2_q5_f,"Net attendance rate, lower secondary, richest quintile, female (%)",measure
+nar_2_q5_gpi,"Net attendance rate, lower secondary, richest quintile, gender parity index (GPI)",measure
+nar_2_q5_m,"Net attendance rate, lower secondary, richest quintile, male (%)",measure
+nar_2_rur,"Net attendance rate, lower secondary, rural, both sexes (%)",measure
+nar_2_rur_f,"Net attendance rate, lower secondary, rural, female (%)",measure
+nar_2_rur_gpi,"Net attendance rate, lower secondary, rural, gender parity index (GPI)",measure
+nar_2_rur_m,"Net attendance rate, lower secondary, rural, male  (%)",measure
+nar_2_urb,"Net attendance rate, lower secondary, urban, both sexes (%)",measure
+nar_2_urb_f,"Net attendance rate, lower secondary, urban, female (%)",measure
+nar_2_urb_gpi,"Net attendance rate, lower secondary, urban, gender parity index (GPI)",measure
+nar_2_urb_m,"Net attendance rate, lower secondary, urban, male  (%)",measure
+nara_1,"Adjusted net attendance rate, primary, both sexes (%)",measure
+nara_1_f,"Adjusted net attendance rate, primary, female (%)",measure
+nara_1_gpi,"Adjusted net attendance rate, primary, gender parity index (GPI)",measure
+nara_1_m,"Adjusted net attendance rate, primary, male (%)",measure
+nara_1_q1,"Adjusted net attendance rate, primary, poorest quintile, both sexes (%)",measure
+nara_1_q1_f,"Adjusted net attendance rate, primary, poorest quintile, female (%)",measure
+nara_1_q1_gpi,"Adjusted net attendance rate, primary, poorest quintile, gender parity index (GPI)",measure
+nara_1_q1_m,"Adjusted net attendance rate, primary, poorest quintile, male (%)",measure
+nara_1_q2,"Adjusted net attendance rate, primary, second quintile, both sexes (%)",measure
+nara_1_q2_f,"Adjusted net attendance rate, primary, second quintile, female (%)",measure
+nara_1_q2_gpi,"Adjusted net attendance rate, primary, second quintile, gender parity index (GPI)",measure
+nara_1_q2_m,"Adjusted net attendance rate, primary, second quintile, male (%)",measure
+nara_1_q3,"Adjusted net attendance rate, primary, middle quintile, both sexes (%)",measure
+nara_1_q3_f,"Adjusted net attendance rate, primary, middle quintile, female (%)",measure
+nara_1_q3_gpi,"Adjusted net attendance rate, primary, middle quintile, gender parity index (GPI)",measure
+nara_1_q3_m,"Adjusted net attendance rate, primary, middle quintile, male (%)",measure
+nara_1_q4,"Adjusted net attendance rate, primary, fourth quintile, both sexes (%)",measure
+nara_1_q4_f,"Adjusted net attendance rate, primary, fourth quintile, female (%)",measure
+nara_1_q4_gpi,"Adjusted net attendance rate, primary, fourth quintile, gender parity index (GPI)",measure
+nara_1_q4_m,"Adjusted net attendance rate, primary, fourth quintile, male (%)",measure
+nara_1_q5,"Adjusted net attendance rate, primary, richest quintile, both sexes (%)",measure
+nara_1_q5_f,"Adjusted net attendance rate, primary, richest quintile, female (%)",measure
+nara_1_q5_gpi,"Adjusted net attendance rate, primary, richest quintile, gender parity index (GPI)",measure
+nara_1_q5_m,"Adjusted net attendance rate, primary, richest quintile, male (%)",measure
+nara_1_rur,"Adjusted net attendance rate, primary, rural, both sexes (%)",measure
+nara_1_rur_f,"Adjusted net attendance rate, primary, rural, female (%)",measure
+nara_1_rur_gpi,"Adjusted net attendance rate, primary, rural, gender parity index (GPI)",measure
+nara_1_rur_m,"Adjusted net attendance rate, primary, rural, male  (%)",measure
+nara_1_urb,"Adjusted net attendance rate, primary, urban, both sexes (%)",measure
+nara_1_urb_f,"Adjusted net attendance rate, primary, urban, female (%)",measure
+nara_1_urb_gpi,"Adjusted net attendance rate, primary, urban, gender parity index (GPI)",measure
+nara_1_urb_m,"Adjusted net attendance rate, primary, urban, male  (%)",measure
+nart_2,"Total net attendance rate, lower secondary, both sexes (%)",measure
+nart_2_f,"Total net attendance rate, lower secondary, female (%)",measure
+nart_2_gpi,"Total net attendance rate, lower secondary, gender parity index (GPI)",measure
+nart_2_m,"Total net attendance rate, lower secondary, male (%)",measure
+nart_2_q1,"Total net attendance rate, lower secondary, poorest quintile, both sexes (%)",measure
+nart_2_q1_f,"Total net attendance rate, lower secondary, poorest quintile, female (%)",measure
+nart_2_q1_gpi,"Total net attendance rate, lower secondary, poorest quintile, gender parity index (GPI)",measure
+nart_2_q1_m,"Total net attendance rate, lower secondary, poorest quintile, male (%)",measure
+nart_2_q2,"Total net attendance rate, lower secondary, second quintile, both sexes (%)",measure
+nart_2_q2_f,"Total net attendance rate, lower secondary, second quintile, female (%)",measure
+nart_2_q2_gpi,"Total net attendance rate, lower secondary, second quintile, gender parity index (GPI)",measure
+nart_2_q2_m,"Total net attendance rate, lower secondary, second quintile, male (%)",measure
+nart_2_q3,"Total net attendance rate, lower secondary, middle quintile, both sexes (%)",measure
+nart_2_q3_f,"Total net attendance rate, lower secondary, middle quintile, female (%)",measure
+nart_2_q3_gpi,"Total net attendance rate, lower secondary, middle quintile, gender parity index (GPI)",measure
+nart_2_q3_m,"Total net attendance rate, lower secondary, middle quintile, male (%)",measure
+nart_2_q4,"Total net attendance rate, lower secondary, fourth quintile, both sexes (%)",measure
+nart_2_q4_f,"Total net attendance rate, lower secondary, fourth quintile, female (%)",measure
+nart_2_q4_gpi,"Total net attendance rate, lower secondary, fourth quintile, gender parity index (GPI)",measure
+nart_2_q4_m,"Total net attendance rate, lower secondary, fourth quintile, male (%)",measure
+nart_2_q5,"Total net attendance rate, lower secondary, richest quintile, both sexes (%)",measure
+nart_2_q5_f,"Total net attendance rate, lower secondary, richest quintile, female (%)",measure
+nart_2_q5_gpi,"Total net attendance rate, lower secondary, richest quintile, gender parity index (GPI)",measure
+nart_2_q5_m,"Total net attendance rate, lower secondary, richest quintile, male (%)",measure
+nart_2_rur,"Total net attendance rate, lower secondary, rural, both sexes (%)",measure
+nart_2_rur_f,"Total net attendance rate, lower secondary, rural, female (%)",measure
+nart_2_rur_gpi,"Total net attendance rate, lower secondary, rural, gender parity index (GPI)",measure
+nart_2_rur_m,"Total net attendance rate, lower secondary, rural, male  (%)",measure
+nart_2_urb,"Total net attendance rate, lower secondary, urban, both sexes (%)",measure
+nart_2_urb_f,"Total net attendance rate, lower secondary, urban, female (%)",measure
+nart_2_urb_gpi,"Total net attendance rate, lower secondary, urban, gender parity index (GPI)",measure
+nart_2_urb_m,"Total net attendance rate, lower secondary, urban, male  (%)",measure
+ner_02_cp,"Net enrolment rate, pre-primary, both sexes (%)",measure
+ner_02_f_cp,"Net enrolment rate, pre-primary, female (%)",measure
+ner_02_gpi,"Net enrolment rate, pre-primary, gender parity index (GPI)",measure
+ner_02_m_cp,"Net enrolment rate, pre-primary, male (%)",measure
+ner_1_cp,"Net enrolment rate, primary, both sexes (%)",measure
+ner_1_f_cp,"Net enrolment rate, primary, female (%)",measure
+ner_1_gpi,"Net enrolment rate, primary, gender parity index (GPI)",measure
+ner_1_m_cp,"Net enrolment rate, primary, male (%)",measure
+ner_2_cp,"Net enrolment rate, lower secondary, both sexes (%)",measure
+ner_2_f_cp,"Net enrolment rate, lower secondary, female (%)",measure
+ner_2_m_cp,"Net enrolment rate, lower secondary, male (%)",measure
+ner_2t3_cp,"Net enrolment rate, secondary, both sexes (%)",measure
+ner_2t3_f_cp,"Net enrolment rate, secondary, female (%)",measure
+ner_2t3_gpi,"Net enrolment rate, secondary, gender parity index (GPI)",measure
+ner_2t3_m_cp,"Net enrolment rate, secondary, male (%)",measure
+ner_3_cp,"Net enrolment rate, upper secondary, both sexes (%)",measure
+ner_3_f_cp,"Net enrolment rate, upper secondary, female (%)",measure
+ner_3_m_cp,"Net enrolment rate, upper secondary, male (%)",measure
+nera_1_cp,"Adjusted net enrolment rate, primary, both sexes (%)",measure
+nera_1_f_cp,"Adjusted net enrolment rate, primary, female (%)",measure
+nera_1_gpi,"Adjusted net enrolment rate, primary, gender parity index (GPI)",measure
+nera_1_m_cp,"Adjusted net enrolment rate, primary, male (%)",measure
+nera_2_cp,"Adjusted net enrolment rate, lower secondary, both sexes (%)",measure
+nera_2_f_cp,"Adjusted net enrolment rate, lower secondary, female (%)",measure
+nera_2_gpi,"Adjusted net enrolment rate, lower secondary, gender parity index (GPI)",measure
+nera_2_m_cp,"Adjusted net enrolment rate, lower secondary, male (%)",measure
+nera_agm1_cp,"Adjusted net enrolment rate, one year before the official primary entry age, both sexes (%)",measure
+nera_agm1_f_cp,"Adjusted net enrolment rate, one year before the official primary entry age, female (%)",measure
+nera_agm1_m_cp,"Adjusted net enrolment rate, one year before the official primary entry age, male (%)",measure
+nert_1_cp,"Total net enrolment rate, primary, both sexes (%)",measure
+nert_1_f_cp,"Total net enrolment rate, primary, female (%)",measure
+nert_1_gpi,"Total net enrolment rate, primary, gender parity index (GPI)",measure
+nert_1_m_cp,"Total net enrolment rate, primary, male (%)",measure
+nert_2_cp,"Total net enrolment rate, lower secondary, both sexes (%)",measure
+nert_2_f_cp,"Total net enrolment rate, lower secondary, female (%)",measure
+nert_2_gpi,"Total net enrolment rate, lower secondary, gender parity index (GPI)",measure
+nert_2_m_cp,"Total net enrolment rate, lower secondary, male (%)",measure
+nir_1_agm1_cp,"Net intake rate to Grade 1 of primary education by under-age entrants (-1 year), both sexes (%)",measure
+nir_1_agm1_f_cp,"Net intake rate to Grade 1 of primary education by under-age entrants (-1 year), female (%)",measure
+nir_1_agm1_gpi,"Net intake rate to Grade 1 of primary education by under-age entrants (-1 year), gender parity index (GPI)",measure
+nir_1_agm1_m_cp,"Net intake rate to Grade 1 of primary education by under-age entrants (-1 year), male (%)",measure
+nir_1_agp1_cp,"Net intake rate to Grade 1 of primary education by over-age entrants (+1 year), both sexes (%)",measure
+nir_1_agp1_f_cp,"Net intake rate to Grade 1 of primary education by over-age entrants (+1 year), female (%)",measure
+nir_1_agp1_gpi,"Net intake rate to Grade 1 of primary education by over-age entrants (+1 year), gender parity index (GPI)",measure
+nir_1_agp1_m_cp,"Net intake rate to Grade 1 of primary education by over-age entrants (+1 year), male (%)",measure
+nir_1_cp,"Net intake rate to Grade 1 of primary education, both sexes (%)",measure
+nir_1_f_cp,"Net intake rate to Grade 1 of primary education, female (%)",measure
+nir_1_gpi,"Net intake rate to Grade 1 of primary education, gender parity index (GPI)",measure
+nir_1_m_cp,"Net intake rate to Grade 1 of primary education, male (%)",measure
+nira_1_cp,"Adjusted net intake rate to Grade 1 of primary education, both sexes (%)",measure
+nira_1_f_cp,"Adjusted net intake rate to Grade 1 of primary education, female (%)",measure
+nira_1_gpi,"Adjusted net intake rate to Grade 1 of primary education, gender parity index (GPI)",measure
+nira_1_m_cp,"Adjusted net intake rate to Grade 1 of primary education, male (%)",measure
+ntp_1_max,"Percentage of newly recruited teachers, primary education, maximum regional value",measure
+ntp_1_max_min,"Maximum/Minimum ratio, percentage of newly recruited teachers, primary education, regional level",measure
+ntp_1_min,"Percentage of newly recruited teachers, primary education, minimum regional value",measure
+ntp_1_pu,"Percentage of teachers in primary education who are newly recruited, both sexes (%)",measure
+ntp_1_pu_f,"Percentage of female teachers in primary education who are newly recruited, female (%)",measure
+ntp_1_pu_m,"Percentage of male teachers in primary education who are newly recruited, male (%)",measure
+ntp_2_gpv_max,"Percentage of newly recruited teachers, lower secondary general education, maximum regional value",measure
+ntp_2_gpv_max_min,"Maximum/Minimum ratio, percentage of newly recruited teachers, lower secondary general education, regional level",measure
+ntp_2_gpv_min,"Percentage of newly recruited teachers, lower secondary general education, minimum regional value",measure
+ntp_2_pu,"Percentage of teachers in lower secondary education who are newly recruited, both sexes (%)",measure
+ntp_2_pu_f,"Percentage of female teachers in lower secondary education who are newly recruited, female (%)",measure
+ntp_2_pu_m,"Percentage of male teachers in lower secondary education who are newly recruited, male (%)",measure
+ntp_2t3_gpv_max,"Percentage of newly recruited teachers, total secondary general education, maximum regional value",measure
+ntp_2t3_gpv_max_min,"Maximum/Minimum ratio, percentage of newly recruited teachers, total secondary general education, regional level",measure
+ntp_2t3_gpv_min,"Percentage of newly recruited teachers, total secondary general education, minimum regional value",measure
+ntp_3_gpv_max,"Percentage of newly recruited teachers, upper secondary general education, maximum regional value",measure
+ntp_3_gpv_max_min,"Maximum/Minimum ratio, percentage of newly recruited teachers, upper secondary general education, regional level",measure
+ntp_3_gpv_min,"Percentage of newly recruited teachers, upper secondary general education, minimum regional value",measure
+ntp_3_pu,"Percentage of teachers in upper secondary education who are newly recruited, both sexes (%)",measure
+ntp_3_pu_f,"Percentage of female teachers in upper secondary education who are newly recruited, female (%)",measure
+ntp_3_pu_m,"Percentage of male teachers in upper secondary education who are newly recruited, male (%)",measure
+oaep_1,"Percentage of students enrolled in primary education who are over-age, both sexes (%)",measure
+oaep_1_f,"Percentage of female students enrolled in primary education who are over-age, female (%)",measure
+oaep_1_m,"Percentage of male students enrolled in primary education who are over-age, male (%)",measure
+oapp_1,"Over-age enrolment ratio in primary education, both sexes (%)",measure
+oapp_1_f,"Over-age enrolment ratio in primary education, female (%)",measure
+oapp_1_m,"Over-age enrolment ratio in primary education, male (%)",measure
+oe_5t8_40500,"Outbound internationally mobile tertiary students studying in North America and Western Europe, both sexes (number)",measure
+oe_5t8_40505,"Outbound internationally mobile tertiary students studying in Central Asia, both sexes (number)",measure
+oe_5t8_40510,"Total outbound internationally mobile tertiary students studying abroad, all countries, both sexes (number)",measure
+oe_5t8_40515,"Outbound internationally mobile tertiary students studying in East Asia and the Pacific, both sexes (number)",measure
+oe_5t8_40520,"Outbound internationally mobile tertiary students studying in Latin America and the Caribbean, both sexes (number)",measure
+oe_5t8_40525,"Outbound internationally mobile tertiary students studying in the Arab States, both sexes (number)",measure
+oe_5t8_40530,"Outbound internationally mobile tertiary students studying in Central and Eastern Europe, both sexes (number)",measure
+oe_5t8_40535,"Outbound internationally mobile tertiary students studying in South and West Asia, both sexes (number)",measure
+oe_5t8_40540,"Outbound internationally mobile tertiary students studying in sub-Saharan Africa, both sexes (number)",measure
+ofsppt_1_cp,"Out-of-school children of primary school age in pre-primary education, both sexes (number)",measure
+ofsppt_1_f_cp,"Out-of-school children of primary school age in pre-primary education, female (number)",measure
+ofsppt_1_m_cp,"Out-of-school children of primary school age in pre-primary education, male (number)",measure
+ofst_1_cp,"Out-of-school children of primary school age, both sexes (number)",measure
+ofst_1_f_cp,"Out-of-school children of primary school age, female (number)",measure
+ofst_1_m_cp,"Out-of-school children of primary school age, male (number)",measure
+ofst_2_cp,"Out-of-school adolescents of lower secondary school age, both sexes (number)",measure
+ofst_2_f_cp,"Out-of-school adolescents of lower secondary school age, female (number)",measure
+ofst_2_m_cp,"Out-of-school adolescents of lower secondary school age, male (number)",measure
+pbr_1_g1_pu_math,Average number of pupils per mathematics textbook in Grade 1 of primary education (number),measure
+pbr_1_g1_pu_read,Average number of pupils per reading textbook in Grade 1 of primary education (number),measure
+pbr_1_g2_pu_math,Average number of pupils per mathematics textbook in Grade 2 of primary education (number),measure
+pbr_1_g2_pu_read,Average number of pupils per reading textbook in Grade 2 of primary education (number),measure
+pbr_1_g3_pu_math,Average number of pupils per mathematics textbook in Grade 3 of primary education (number),measure
+pbr_1_g3_pu_read,Average number of pupils per reading textbook in Grade 3 of primary education (number),measure
+pbr_1_g4_pu_math,Average number of pupils per mathematics textbook in Grade 4 of primary education (number),measure
+pbr_1_g4_pu_read,Average number of pupils per reading textbook in Grade 4 of primary education (number),measure
+pbr_1_g5_pu_math,Average number of pupils per mathematics textbook in Grade 5 of primary education (number),measure
+pbr_1_g5_pu_read,Average number of pupils per reading textbook in Grade 5 of primary education (number),measure
+pbr_1_g6_pu_math,Average number of pupils per mathematics textbook in Grade 6 of primary education (number),measure
+pbr_1_g6_pu_read,Average number of pupils per reading textbook in Grade 6 of primary education (number),measure
+pbr_1_g7_pu_math,Average number of pupils per mathematics textbook in Grade 7 of primary education (number),measure
+pbr_1_g7_pu_read,Average number of pupils per reading textbook in Grade 7 of primary education (number),measure
+pbr_1_pu_math,Average number of pupils per mathematics textbook in primary education (number),measure
+pbr_1_pu_read,Average number of pupils per reading textbook in primary education (number),measure
+plillitp,"Participants to literacy programmes, expressed as percentage of the illiterate population, both sexes (%)",measure
+plillitp_f,"Participants to literacy programmes, expressed as percentage of the illiterate population, female (%)",measure
+prp_0,Percentage of enrolment in early childhood education programmes in private institutions (%),measure
+prp_01,Percentage of enrolment in early childhood educational development programmes in private institutions (%),measure
+prp_02,Percentage of enrolment in pre-primary education in private institutions (%),measure
+prp_1,Percentage of enrolment in primary education in private institutions (%),measure
+prp_2,Percentage of enrolment in lower secondary education in private institutions (%),measure
+prp_2t3,Percentage of enrolment in secondary education in private institutions (%),measure
+prp_3,Percentage of enrolment in upper secondary education in private institutions (%),measure
+prp_4,Percentage of enrolment in post-secondary non-tertiary education in private institutions (%),measure
+prp_5t8,Percentage of enrolment in tertiary education in private institutions (%),measure
+prtp_1_max,"Percentage of teachers in private institutions, primary education, maximum regional value",measure
+prtp_1_max_min,"Maximum/Minimum ratio, percentage of teachers in private institutions, primary education, regional level",measure
+prtp_1_min,"Percentage of teachers in private institutions, primary education, minimum regional value",measure
+prtp_2_gpv,"Percentage of teachers in private institutions, lower secondary general",measure
+prtp_2_gpv_max,"Percentage of teachers in private institutions, lower secondary general, maximum regional value",measure
+prtp_2_gpv_max_min,"Maximum/Minimum ratio, percentage of teachers in private institutions, lower secondary general, regional level",measure
+prtp_2_gpv_min,"Percentage of teachers in private institutions, lower secondary general, minimum regional value",measure
+prtp_2t3_gpv_max,"Percentage of teachers in private institutions, total secondary general, maximum regional value",measure
+prtp_2t3_gpv_max_min,"Maximum/Minimum ratio, percentage of teachers in private institutions, total secondary general, regional level",measure
+prtp_2t3_gpv_min,"Percentage of teachers in private institutions, total secondary general, minimum regional value",measure
+prtp_3_gpv,"Percentage of teachers in private institutions, upper secondary general",measure
+prtp_3_gpv_max,"Percentage of teachers in private institutions, upper secondary general, maximum regional value",measure
+prtp_3_gpv_max_min,"Maximum/Minimum ratio, percentage of teachers in private institutions, upper secondary general, regional level",measure
+prtp_3_gpv_min,"Percentage of teachers in private institutions, upper secondary general, minimum regional value",measure
+ptrhc_02,Pupil-teacher ratio in pre-primary education (headcount basis),measure
+ptrhc_02_qualified,Pupil/qualified teacher ratio in pre-primary education (headcount basis),measure
+ptrhc_02_trained,Pupil/trained teacher ratio in pre-primary education (headcount basis),measure
+ptrhc_1,Pupil-teacher ratio in primary education (headcount basis),measure
+ptrhc_1_max,"Pupil-teacher ratio (headcount basis), primary education, maximum regional value",measure
+ptrhc_1_max_min,"Maximum/Minimum ratio, pupil-teacher ratio (headcount basis), primary education, regional level",measure
+ptrhc_1_min,"Pupil-teacher ratio (headcount basis), primary education, minimum regional value",measure
+ptrhc_1_qualified,Pupil/qualified teacher ratio in primary education (headcount basis),measure
+ptrhc_1_trained,Pupil/trained teacher ratio in primary education (headcount basis),measure
+ptrhc_2,Pupil-teacher ratio in lower secondary education (headcount basis),measure
+ptrhc_2_gpv_max,"Pupil-teacher ratio (headcount basis), lower secondary general education, maximum regional value",measure
+ptrhc_2_gpv_max_min,"Maximum/Minimum ratio, pupil-teacher ratio (headcount basis), lower secondary general education, regional level",measure
+ptrhc_2_gpv_min,"Pupil-teacher ratio (headcount basis), lower secondary general education, minimum regional value",measure
+ptrhc_2_qualified,Pupil/qualified teacher ratio in lower secondary (headcount basis),measure
+ptrhc_2_trained,Pupil/trained teacher ratio in lower secondary education (headcount basis),measure
+ptrhc_2t3,Pupil-teacher ratio in secondary education (headcount basis),measure
+ptrhc_2t3_gpv_max,"Pupil-teacher ratio (headcount basis), total secondary general education, maximum regional value",measure
+ptrhc_2t3_gpv_max_min,"Maximum/Minimum ratio, pupil-teacher ratio (headcount basis), total secondary general education, regional level",measure
+ptrhc_2t3_gpv_min,"Pupil-teacher ratio (headcount basis), total secondary general education, minimum regional value",measure
+ptrhc_2t3_qualified,Pupil/qualified teacher ratio  in secondary (headcount basis),measure
+ptrhc_2t3_trained,Pupil/trained teacher ratio in secondary education (headcount basis),measure
+ptrhc_3,Pupil-teacher ratio in upper secondary education (headcount basis),measure
+ptrhc_3_gpv_max,"Pupil-teacher ratio (headcount basis), upper secondary general education, maximum regional value",measure
+ptrhc_3_gpv_max_min,"Maximum/Minimum ratio, pupil-teacher ratio (headcount basis), upper secondary general education, regional level",measure
+ptrhc_3_gpv_min,"Pupil-teacher ratio (headcount basis), upper secondary general education, minimum regional value",measure
+ptrhc_3_qualified,Pupil/qualified teacher ratio in upper secondary (headcount basis),measure
+ptrhc_3_trained,Pupil/trained teacher ratio in upper secondary education (headcount basis),measure
+ptrhc_5t8,Pupil-teacher ratio in tertiary education (headcount basis),measure
+qutp_02,"Percentage of teachers in pre-primary education who are qualified, both sexes (%)",measure
+qutp_1,"Percentage of teachers in primary education who are qualified, both sexes (%)",measure
+qutp_2,"Percentage of teachers in lower secondary education who are qualified, both sexes (%)",measure
+qutp_2t3,"Percentage of teachers in secondary education who are qualified, bot sexes (%)",measure
+qutp_3,"Percentage of teachers in upper secondary education who are qualified, both sexes (%)",measure
+repp_1,"Percentage of repeaters in primary education, all grades, both sexes (%)",measure
+repp_1_f,"Percentage of repeaters in primary education, all grades, female (%)",measure
+repp_1_g1,"Percentage of repeaters in Grade 1 of primary education, both sexes (%)",measure
+repp_1_g1_f,"Percentage of repeaters in Grade 1 of primary education, female (%)",measure
+repp_1_g1_m,"Percentage of repeaters in Grade 1 of primary education, male (%)",measure
+repp_1_g2,"Percentage of repeaters in Grade 2 of primary education, both sexes (%)",measure
+repp_1_g2_f,"Percentage of repeaters in Grade 2 of primary education, female (%)",measure
+repp_1_g2_m,"Percentage of repeaters in Grade 2 of primary education, male (%)",measure
+repp_1_g3,"Percentage of repeaters in Grade 3 of primary education, both sexes (%)",measure
+repp_1_g3_f,"Percentage of repeaters in Grade 3 of primary education, female (%)",measure
+repp_1_g3_m,"Percentage of repeaters in Grade 3 of primary education, male (%)",measure
+repp_1_g4,"Percentage of repeaters in Grade 4 of primary education, both sexes (%)",measure
+repp_1_g4_f,"Percentage of repeaters in Grade 4 of primary education, female (%)",measure
+repp_1_g4_m,"Percentage of repeaters in Grade 4 of primary education, male (%)",measure
+repp_1_g5,"Percentage of repeaters in Grade 5 of primary education, both sexes (%)",measure
+repp_1_g5_f,"Percentage of repeaters in Grade 5 of primary education, female (%)",measure
+repp_1_g5_m,"Percentage of repeaters in Grade 5 of primary education, male (%)",measure
+repp_1_g6,"Percentage of repeaters in Grade 6 of primary education, both sexes (%)",measure
+repp_1_g6_f,"Percentage of repeaters in Grade 6 of primary education, female (%)",measure
+repp_1_g6_m,"Percentage of repeaters in Grade 6 of primary education, male (%)",measure
+repp_1_g7,"Percentage of repeaters in Grade 7 of primary education, both sexes (%)",measure
+repp_1_g7_f,"Percentage of repeaters in Grade 7 of primary education, female (%)",measure
+repp_1_g7_m,"Percentage of repeaters in Grade 7 of primary education, male (%)",measure
+repp_1_gpi,"Percentage of repeaters in primary education, all grades, gender parity index (GPI)",measure
+repp_1_m,"Percentage of repeaters in primary education, all grades, male (%)",measure
+repp_2_gpv,"Percentage of repeaters in lower secondary general education, all grades, both sexes (%)",measure
+repp_2_gpv_f,"Percentage of repeaters in lower secondary general education, all grades, female (%)",measure
+repp_2_gpv_g1,"Percentage of repeaters in Grade 1 of lower secondary general education, both sexes (%)",measure
+repp_2_gpv_g1_f,"Percentage of repeaters in Grade 1 of lower secondary general education, female (%)",measure
+repp_2_gpv_g1_m,"Percentage of repeaters in Grade 1 of lower secondary general education, male (%)",measure
+repp_2_gpv_g2,"Percentage of repeaters in Grade 2 of lower secondary general education, both sexes (%)",measure
+repp_2_gpv_g2_f,"Percentage of repeaters in Grade 2 of lower secondary general education, female (%)",measure
+repp_2_gpv_g2_m,"Percentage of repeaters in Grade 2 of lower secondary general education, male (%)",measure
+repp_2_gpv_g3,"Percentage of repeaters in Grade 3 of lower secondary general education, both sexes (%)",measure
+repp_2_gpv_g3_f,"Percentage of repeaters in Grade 3 of lower secondary general education, female (%)",measure
+repp_2_gpv_g3_m,"Percentage of repeaters in Grade 3 of lower secondary general education, male (%)",measure
+repp_2_gpv_g4,"Percentage of repeaters in Grade 4 of lower secondary general education, both sexes (%)",measure
+repp_2_gpv_g4_f,"Percentage of repeaters in Grade 4 of lower secondary general education, female (%)",measure
+repp_2_gpv_g4_m,"Percentage of repeaters in Grade 4 of lower secondary general education, male (%)",measure
+repp_2_gpv_g5,"Percentage of repeaters in Grade 5 of lower secondary general education, both sexes (%)",measure
+repp_2_gpv_g5_f,"Percentage of repeaters in Grade 5 of lower secondary general education, female (%)",measure
+repp_2_gpv_g5_m,"Percentage of repeaters in Grade 5 of lower secondary general education, male (%)",measure
+repp_2_gpv_g6,"Percentage of repeaters in Grade 6 of lower secondary general education, both sexes (%)",measure
+repp_2_gpv_g6_f,"Percentage of repeaters in Grade 6 of lower secondary general education, female (%)",measure
+repp_2_gpv_g6_m,"Percentage of repeaters in Grade 6 of lower secondary general education, male (%)",measure
+repp_2_gpv_m,"Percentage of repeaters in lower secondary general education, all grades, male (%)",measure
+repr_1_cp,"Repetition rate in primary education (all grades), both sexes (%)",measure
+repr_1_f_cp,"Repetition rate in primary education (all grades), female (%)",measure
+repr_1_g1_cp,"Repetition rate in Grade 1 of primary education, both sexes (%)",measure
+repr_1_g1_f_cp,"Repetition rate in Grade 1 of primary education, female (%)",measure
+repr_1_g1_m_cp,"Repetition rate in Grade 1 of primary education, male (%)",measure
+repr_1_g2_cp,"Repetition rate in Grade 2 of primary education, both sexes (%)",measure
+repr_1_g2_f_cp,"Repetition rate in Grade 2 of primary education, female (%)",measure
+repr_1_g2_m_cp,"Repetition rate in Grade 2 of primary education, male (%)",measure
+repr_1_g3_cp,"Repetition rate in Grade 3 of primary education, both sexes (%)",measure
+repr_1_g3_f_cp,"Repetition rate in Grade 3 of primary education, female (%)",measure
+repr_1_g3_m_cp,"Repetition rate in Grade 3 of primary education, male (%)",measure
+repr_1_g4_cp,"Repetition rate in Grade 4 of primary education, both sexes (%)",measure
+repr_1_g4_f_cp,"Repetition rate in Grade 4 of primary education, female (%)",measure
+repr_1_g4_m_cp,"Repetition rate in Grade 4 of primary education, male (%)",measure
+repr_1_g5_cp,"Repetition rate in Grade 5 of primary education, both sexes (%)",measure
+repr_1_g5_f_cp,"Repetition rate in Grade 5 of primary education, female (%)",measure
+repr_1_g5_m_cp,"Repetition rate in Grade 5 of primary education, male (%)",measure
+repr_1_g6_cp,"Repetition rate in Grade 6 of primary education, both sexes (%)",measure
+repr_1_g6_f_cp,"Repetition rate in Grade 6 of primary education, female (%)",measure
+repr_1_g6_m_cp,"Repetition rate in Grade 6 of primary education, male (%)",measure
+repr_1_g7_cp,"Repetition rate in Grade 7 of primary education, both sexes (%)",measure
+repr_1_g7_f_cp,"Repetition rate in Grade 7 of primary education, female (%)",measure
+repr_1_g7_m_cp,"Repetition rate in Grade 7 of primary education, male (%)",measure
+repr_1_m_cp,"Repetition rate in primary education (all grades), male (%)",measure
+repr_2_cp,"Repetition rate in lower secondary general education (all grades), both sexes (%)",measure
+repr_2_f_cp,"Repetition rate in lower secondary general education (all grades), female (%)",measure
+repr_2_g1_cp,"Repetition rate in Grade 1 of lower secondary general education, both sexes (%)",measure
+repr_2_g1_f_cp,"Repetition rate in Grade 1 of lower secondary general education, female (%)",measure
+repr_2_g1_m_cp,"Repetition rate in Grade 1 of lower secondary general education, male (%)",measure
+repr_2_g2_cp,"Repetition rate in Grade 2 of lower secondary general education, both sexes (%)",measure
+repr_2_g2_f_cp,"Repetition rate in Grade 2 of lower secondary general education, female (%)",measure
+repr_2_g2_m_cp,"Repetition rate in Grade 2 of lower secondary general education, male (%)",measure
+repr_2_g3_cp,"Repetition rate in Grade 3 of lower secondary general education, both sexes (%)",measure
+repr_2_g3_f_cp,"Repetition rate in Grade 3 of lower secondary general education, female (%)",measure
+repr_2_g3_m_cp,"Repetition rate in Grade 3 of lower secondary general education, male (%)",measure
+repr_2_g4_cp,"Repetition rate in Grade 4 of lower secondary general education, both sexes (%)",measure
+repr_2_g4_f_cp,"Repetition rate in Grade 4 of lower secondary general education, female (%)",measure
+repr_2_g4_m_cp,"Repetition rate in Grade 4 of lower secondary general education, male (%)",measure
+repr_2_g5_cp,"Repetition rate in Grade 5 of lower secondary general education, both sexes (%)",measure
+repr_2_g5_f_cp,"Repetition rate in Grade 5 of lower secondary general education, female (%)",measure
+repr_2_g5_m_cp,"Repetition rate in Grade 5 of lower secondary general education, male (%)",measure
+repr_2_m_cp,"Repetition rate in lower secondary general education (all grades), male (%)",measure
+rofsppt_1_cp,"Rate of out-of-school children of primary school age in pre-primary education, both sexes (%)",measure
+rofsppt_1_f_cp,"Rate of out-of-school children of primary school age in pre-primary education, female (%)",measure
+rofsppt_1_m_cp,"Rate of out-of-school children of primary school age in pre-primary education, male (%)",measure
+rofst_1_cp,"Rate of out-of-school children of primary school age, both sexes (%)",measure
+rofst_1_f_cp,"Rate of out-of-school children of primary school age, female (%)",measure
+rofst_1_m_cp,"Rate of out-of-school children of primary school age, male (%)",measure
+rofst_2_cp,"Rate of out-of-school adolescents of lower secondary school age, both sexes (%)",measure
+rofst_2_f_cp,"Rate of out-of-school adolescents of lower secondary school age, female (%)",measure
+rofst_2_m_cp,"Rate of out-of-school adolescents of lower secondary school age, male (%)",measure
+rofst_h_1,"Rate of out-of-school children of primary school age, both sexes (household survey data) (%)",measure
+rofst_h_1_f,"Rate of out-of-school children of primary school age, female (household survey data) (%)",measure
+rofst_h_1_m,"Rate of out-of-school children of primary school age, male (household survey data) (%)",measure
+rofst_h_1_q1,"Rate of out-of-school children of primary school age, poorest quintile, both sexes (household survey data) (%)",measure
+rofst_h_1_q1_f,"Rate of out-of-school children of primary school age, poorest quintile, female (household survey data) (%)",measure
+rofst_h_1_q1_m,"Rate of out-of-school children of primary school age, poorest quintile, male (household survey data) (%)",measure
+rofst_h_1_q2,"Rate of out-of-school children of primary school age, second quintile, both sexes (household survey data) (%)",measure
+rofst_h_1_q2_f,"Rate of out-of-school children of primary school age, second quintile, female (household survey data) (%)",measure
+rofst_h_1_q2_m,"Rate of out-of-school children of primary school age, second quintile, male (household survey data) (%)",measure
+rofst_h_1_q3,"Rate of out-of-school children of primary school age, middle quintile, both sexes (household survey data) (%)",measure
+rofst_h_1_q3_f,"Rate of out-of-school children of primary school age, middle quintile, female (household survey data) (%)",measure
+rofst_h_1_q3_m,"Rate of out-of-school children of primary school age, middle quintile, male (household survey data) (%)",measure
+rofst_h_1_q4,"Rate of out-of-school children of primary school age, fourth quintile, both sexes (household survey data) (%)",measure
+rofst_h_1_q4_f,"Rate of out-of-school children of primary school age, fourth quintile, female (household survey data) (%)",measure
+rofst_h_1_q4_m,"Rate of out-of-school children of primary school age, fourth quintile, male (household survey data) (%)",measure
+rofst_h_1_q5,"Rate of out-of-school children of primary school age, richest quintile, both sexes (household survey data) (%)",measure
+rofst_h_1_q5_f,"Rate of out-of-school children of primary school age, richest quintile, female (household survey data) (%)",measure
+rofst_h_1_q5_m,"Rate of out-of-school children of primary school age, richest quintile, male (household survey data) (%)",measure
+rofst_h_1_rur,"Rate of out-of-school children of primary school age, rural, both sexes (household survey data) (%)",measure
+rofst_h_1_rur_f,"Rate of out-of-school children of primary school age, rural, female (household survey data) (%)",measure
+rofst_h_1_rur_m,"Rate of out-of-school children of primary school age, rural, male  (household survey data) (%)",measure
+rofst_h_1_urb,"Rate of out-of-school children of primary school age, urban, both sexes (household survey data) (%)",measure
+rofst_h_1_urb_f,"Rate of out-of-school children of primary school age, urban, female (household survey data) (%)",measure
+rofst_h_1_urb_m,"Rate of out-of-school children of primary school age, urban, male  (household survey data) (%)",measure
+rofst_h_2,"Rate of out-of-school adolescents of lower secondary school age, both sexes (household survey data) (%)",measure
+rofst_h_2_f,"Rate of out-of-school adolescents of lower secondary school age, female (household survey data) (%)",measure
+rofst_h_2_m,"Rate of out-of-school adolescents of lower secondary school age, male (household survey data) (%)",measure
+rofst_h_2_q1,"Rate of out-of-school adolescents of lower secondary school age, poorest quintile, both sexes (household survey data) (%)",measure
+rofst_h_2_q1_f,"Rate of out-of-school adolescents of lower secondary school age, poorest quintile, female (household survey data) (%)",measure
+rofst_h_2_q1_m,"Rate of out-of-school adolescents of lower secondary school age, poorest quintile, male (household survey data) (%)",measure
+rofst_h_2_q2,"Rate of out-of-school adolescents of lower secondary school age, second quintile, both sexes (household survey data) (%)",measure
+rofst_h_2_q2_f,"Rate of out-of-school adolescents of lower secondary school age, second quintile, female (household survey data) (%)",measure
+rofst_h_2_q2_m,"Rate of out-of-school adolescents of lower secondary school age, second quintile, male (household survey data) (%)",measure
+rofst_h_2_q3,"Rate of out-of-school adolescents of lower secondary school age, middle quintile, both sexes (household survey data) (%)",measure
+rofst_h_2_q3_f,"Rate of out-of-school adolescents of lower secondary school age, middle quintile, female (household survey data) (%)",measure
+rofst_h_2_q3_m,"Rate of out-of-school adolescents of lower secondary school age, middle quintile, male (household survey data) (%)",measure
+rofst_h_2_q4,"Rate of out-of-school adolescents of lower secondary school age, fourth quintile, both sexes (household survey data) (%)",measure
+rofst_h_2_q4_f,"Rate of out-of-school adolescents of lower secondary school age, fourth quintile, female (household survey data) (%)",measure
+rofst_h_2_q4_m,"Rate of out-of-school adolescents of lower secondary school age, fourth quintile, male (household survey data) (%)",measure
+rofst_h_2_q5,"Rate of out-of-school adolescents of lower secondary school age, richest quintile, both sexes (household survey data) (%)",measure
+rofst_h_2_q5_f,"Rate of out-of-school adolescents of lower secondary school age, richest quintile, female (household survey data) (%)",measure
+rofst_h_2_q5_m,"Rate of out-of-school adolescents of lower secondary school age, richest quintile, male (household survey data) (%)",measure
+rofst_h_2_rur,"Rate of out-of-school adolescents of lower secondary school age, rural, both sexes (household survey data) (%)",measure
+rofst_h_2_rur_f,"Rate of out-of-school adolescents of lower secondary school age, rural, female (household survey data) (%)",measure
+rofst_h_2_rur_m,"Rate of out-of-school adolescents of lower secondary school age, rural, male  (household survey data) (%)",measure
+rofst_h_2_urb,"Rate of out-of-school adolescents of lower secondary school age, urban, both sexes (household survey data) (%)",measure
+rofst_h_2_urb_f,"Rate of out-of-school adolescents of lower secondary school age, urban, female (household survey data) (%)",measure
+rofst_h_2_urb_m,"Rate of out-of-school adolescents of lower secondary school age, urban, male  (household survey data) (%)",measure
+sap_02,"Population of the official age for pre-primary education, both sexes (number)",measure
+sap_02_f,"Population of the official age for pre-primary education, female (number)",measure
+sap_02_m,"Population of the official age for pre-primary education, male (number)",measure
+sap_1,"Population of the official age for primary education, both sexes (number)",measure
+sap_1_f,"Population of the official age for primary education, female (number)",measure
+sap_1_g1,"Population of the official entrance age to primary education, both sexes (number)",measure
+sap_1_g1_f,"Population of the official entrance age to primary education, female (number)",measure
+sap_1_g1_m,"Population of the official entrance age to primary education, male (number)",measure
+sap_1_glast,"Population of the official age for the last grade of primary education, both sexes (number)",measure
+sap_1_glast_f,"Population of the official age for the last grade of primary education, female (number)",measure
+sap_1_glast_m,"Population of the official age for the last grade of primary education, male (number)",measure
+sap_1_m,"Population of the official age for primary education, male (number)",measure
+sap_2,"Population of the official age for lower secondary education, both sexes (number)",measure
+sap_2_f,"Population of the official age for lower secondary education, female (number)",measure
+sap_2_g1,"Population of the official entrance age to secondary general education, both sexes (number)",measure
+sap_2_g1_f,"Population of the official entrance age to secondary general education, female (number)",measure
+sap_2_g1_m,"Population of the official entrance age to secondary general education, male (number)",measure
+sap_2_m,"Population of the official age for lower secondary education, male (number)",measure
+sap_2t3,"Population of the official age for secondary education, both sexes (number)",measure
+sap_2t3_f,"Population of the official age for secondary education, female (number)",measure
+sap_2t3_m,"Population of the official age for secondary education, male (number)",measure
+sap_3,"Population of the official age for upper secondary education, both sexes (number)",measure
+sap_3_f,"Population of the official age for upper secondary education, female (number)",measure
+sap_3_m,"Population of the official age for upper secondary education, male (number)",measure
+sap_4,"Population of the official age for post-secondary non-tertiary education, both sexes (number)",measure
+sap_4_f,"Population of the official age for post-secondary non-tertiary education, female (number)",measure
+sap_4_m,"Population of the official age for post-secondary non-tertiary education, male (number)",measure
+sap_5t8,"Population of the official age for tertiary education, both sexes (number)",measure
+sap_5t8_f,"Population of the official age for tertiary education, female (number)",measure
+sap_5t8_m,"Population of the official age for tertiary education, male (number)",measure
+sap_ce,"Population of compulsory school age, both sexes (number)",measure
+sap_ce_f,"Population of compulsory school age, female (number)",measure
+sap_ce_m,"Population of compulsory school age, male (number)",measure
+schbsp_1_pu_mixtoil,Percentage of primary schools with mixed-sex toilets (%),measure
+schbsp_1_pu_welec,Percentage of primary schools with access to electricity (%),measure
+schbsp_1_pu_wnielec,Percentage of primary schools with no information on electricity (%),measure
+schbsp_1_pu_wnipowat,Percentage of primary schools with no information on potable water (%),measure
+schbsp_1_pu_wnitoil,Percentage of primary schools with no information on toilets (%),measure
+schbsp_1_pu_woelec,Percentage of primary schools without access to electricity (%),measure
+schbsp_1_pu_wopowat,Percentage of primary schools without access to potable water (%),measure
+schbsp_1_pu_wotoil,Percentage of primary schools without toilets (%),measure
+schbsp_1_pu_wpowat,Percentage of primary schools with access to potable water (%),measure
+schbsp_1_pu_wstoil,Percentage of primary schools with single-sex toilets (%),measure
+schbsp_1_pu_wtoil,Percentage of primary schools with toilets (%),measure
+schbsp_2_pu_mixtoil,Percentage of lower secondary schools with mixed-sex toilets (%),measure
+schbsp_2_pu_welec,Percentage of lower secondary schools with access to electricity (%),measure
+schbsp_2_pu_wnielec,Percentage of lower secondary schools with no information on electricity (%),measure
+schbsp_2_pu_wnipowat,Percentage of lower secondary schools with no information on potable water (%),measure
+schbsp_2_pu_wnitoil,Percentage of lower secondary schools with no information on toilets (%),measure
+schbsp_2_pu_woelec,Percentage of lower secondary schools without access to electricity (%),measure
+schbsp_2_pu_wopowat,Percentage of lower secondary schools without access to potable water (%),measure
+schbsp_2_pu_wotoil,Percentage of lower secondary schools without toilets (%),measure
+schbsp_2_pu_wpowat,Percentage of lower secondary schools with access to potable water (%),measure
+schbsp_2_pu_wstoil,Percentage of lower secondary schools with single-sex toilets (%),measure
+schbsp_2_pu_wtoil,Percentage of lower secondary schools with toilets (%),measure
+schcenrespr_1_pu,School census return rate from primary schools,measure
+schcenrespr_2t3_pu,School census return rate from secondary schools,measure
+sle_02,"School life expectancy, pre-primary, both sexes (years)",measure
+sle_02_f,"School life expectancy, pre-primary, female (years)",measure
+sle_02_gpi,"School life expectancy, pre-primary, gender parity index (GPI)",measure
+sle_02_m,"School life expectancy, pre-primary, male (years)",measure
+sle_1,"School life expectancy, primary, both sexes (years)",measure
+sle_1_f,"School life expectancy, primary, female (years)",measure
+sle_1_gpi,"School life expectancy, primary, gender parity index (GPI)",measure
+sle_1_m,"School life expectancy, primary, male (years)",measure
+sle_1t2,"School life expectancy, primary and lower secondary, both sexes (years)",measure
+sle_1t2_f,"School life expectancy, primary and lower secondary, female (years)",measure
+sle_1t2_m,"School life expectancy, primary and lower secondary, male (years)",measure
+sle_1t3,"School life expectancy, primary and secondary, both sexes (years)",measure
+sle_1t3_f,"School life expectancy, primary and secondary, female (years)",measure
+sle_1t3_gpi,"School life expectancy, primary and secondary, gender parity index (GPI)",measure
+sle_1t3_m,"School life expectancy, primary and secondary, male (years)",measure
+sle_1t8,"School life expectancy, primary to tertiary, both sexes (years)",measure
+sle_1t8_f,"School life expectancy, primary to tertiary, female (years)",measure
+sle_1t8_gpi,"School life expectancy, primary to tertiary, gender parity index (GPI)",measure
+sle_1t8_m,"School life expectancy, primary to tertiary, male (years)",measure
+sle_2t3,"School life expectancy, secondary, both sexes (years)",measure
+sle_2t3_f,"School life expectancy, secondary, female (years)",measure
+sle_2t3_gpi,"School life expectancy, secondary, gender parity index (GPI)",measure
+sle_2t3_m,"School life expectancy, secondary, male (years)",measure
+sle_4,"School life expectancy, post-secondary non-tertiary, both sexes (years)",measure
+sle_4_f,"School life expectancy, post-secondary non-tertiary, female (years)",measure
+sle_4_gpi,"School life expectancy, post-secondary non-tertiary, gender parity index (GPI)",measure
+sle_4_m,"School life expectancy, post-secondary non-tertiary, male (years)",measure
+sle_5t8,"School life expectancy, tertiary, both sexes (years)",measure
+sle_5t8_f,"School life expectancy, tertiary, female (years)",measure
+sle_5t8_gpi,"School life expectancy, tertiary, gender parity index (GPI)",measure
+sle_5t8_m,"School life expectancy, tertiary, male (years)",measure
+slen_1t2,"School life expectancy, primary and lower secondary (excluding repetition), both sexes (years)",measure
+slen_1t2_f,"School life expectancy, primary and lower secondary (excluding repetition), female (years)",measure
+slen_1t2_gpi,"School life expectancy, primary and lower secondary (excluding repetition), gender parity index (GPI)",measure
+slen_1t2_m,"School life expectancy, primary and lower secondary (excluding repetition), male (years)",measure
+sr_1_g4_cp,"Survival rate to Grade 4 of primary education, both sexes (%)",measure
+sr_1_g4_f_cp,"Survival rate to Grade 4 of primary education, female (%)",measure
+sr_1_g4_gpi,"Survival rate to Grade 4 of primary education, gender parity index (GPI)",measure
+sr_1_g4_m_cp,"Survival rate to Grade 4 of primary education, male (%)",measure
+sr_1_g5_cp,"Survival rate to Grade 5 of primary education, both sexes (%)",measure
+sr_1_g5_f_cp,"Survival rate to Grade 5 of primary education, female (%)",measure
+sr_1_g5_gpi,"Survival rate to Grade 5 of primary education, gender parity index (GPI)",measure
+sr_1_g5_m_cp,"Survival rate to Grade 5 of primary education, male (%)",measure
+sr_1_glast_cp,"Survival rate to the last grade of primary education, both sexes (%)",measure
+sr_1_glast_f_cp,"Survival rate to the last grade of primary education, female (%)",measure
+sr_1_glast_gpi,"Survival rate to the last grade of primary education, gender parity index (GPI)",measure
+sr_1_glast_m_cp,"Survival rate to the last grade of primary education, male (%)",measure
+sr_2_glast_cp,"Survival rate to the last grade of lower secondary general education, both sexes (%)",measure
+sr_2_glast_f_cp,"Survival rate to the last grade of lower secondary general education, female (%)",measure
+sr_2_glast_gpi,"Survival rate to the last grade of lower secondary general education, gender parity index (GPI)",measure
+sr_2_glast_m_cp,"Survival rate to the last grade of lower secondary general education, male (%)",measure
+tattrr_1_pu,"Teacher attrition rate from public primary education, both sexes (%)",measure
+tattrr_1_pu_f,"Teacher attrition rate from public primary education, female (%)",measure
+tattrr_1_pu_m,"Teacher attrition rate from public primary education, male (%)",measure
+tattrr_2_pu,"Teacher attrition rate from public lower secondary education, both sexes (%)",measure
+tattrr_2_pu_f,"Teacher attrition rate from public lower secondary education, female (%)",measure
+tattrr_2_pu_m,"Teacher attrition rate from public lower secondary education, male (%)",measure
+tattrr_3_pu,"Teacher attrition rate from public upper secondary education, both sexes (%)",measure
+tattrr_3_pu_f,"Teacher attrition rate from public upper secondary education, female (%)",measure
+tattrr_3_pu_m,"Teacher attrition rate from public upper secondary education, male (%)",measure
+te_100000_5t8,"Enrolment in tertiary education per 100,000 inhabitants, both sexes",measure
+te_100000_5t8_f,"Enrolment in tertiary education per 100,000 inhabitants, female",measure
+te_100000_5t8_m,"Enrolment in tertiary education per 100,000 inhabitants, male",measure
+tep_5,"Percentage of all students in tertiary education enrolled in ISCED 5, both sexes (%)",measure
+tep_5_f,Percentage of female students in tertiary education enrolled in ISCED 5,measure
+tep_5_m,Percentage of male students in tertiary education enrolled in ISCED 5,measure
+tep_6,"Percentage of all students in tertiary education enrolled in ISCED 6, both sexes (%)",measure
+tep_6_f,Percentage of female students in tertiary education enrolled in ISCED 6,measure
+tep_6_m,Percentage of male students in tertiary education enrolled in ISCED 6,measure
+tep_7,"Percentage of all students in tertiary education enrolled in ISCED 7, both sexes (%)",measure
+tep_7_f,Percentage of female students in tertiary education enrolled in ISCED 7,measure
+tep_7_m,Percentage of male students in tertiary education enrolled in ISCED 7,measure
+tep_8,"Percentage of all students in tertiary education enrolled in ISCED 8, both sexes (%)",measure
+tep_8_f,Percentage of female students in tertiary education enrolled in ISCED 8,measure
+tep_8_m,Percentage of male students in tertiary education enrolled in ISCED 8,measure
+thdur_2t3,Theoretical duration of secondary education (years),measure
+tranra_2_gpv_cp,"Effective transition rate from primary to lower secondary general education, both sexes (%)",measure
+tranra_2_gpv_f_cp,"Effective transition rate from primary to lower secondary general education, female (%)",measure
+tranra_2_gpv_gpi,"Effective transition rate from primary to lower secondary general education, gender parity index (GPI)",measure
+tranra_2_gpv_m_cp,"Effective transition rate from primary to lower secondary general education, male (%)",measure
+trntp_1_max,"Percentage of trained newly recruited teachers, primary education, maximum regional value",measure
+trntp_1_max_min,"Maximum/Minimum ratio, percentage of trained newly recruited teachers, primary education, regional level",measure
+trntp_1_min,"Percentage of trained newly recruited teachers, primary education, minimum regional value",measure
+trntp_1_pu,"Percentage of newly recruited teachers in primary education who are trained, both sexes (%)",measure
+trntp_1_pu_f,"Percentage of female newly recruited teachers in primary education who are trained, female (%)",measure
+trntp_1_pu_m,"Percentage of male newly recruited teachers in primary education who are trained, male (%)",measure
+trntp_2_gpv_max,"Percentage of trained newly recruited teachers, lower secondary general education, maximum regional value",measure
+trntp_2_gpv_max_min,"Maximum/Minimum ratio, percentage of trained newly recruited teachers, lower secondary general education, regional level",measure
+trntp_2_gpv_min,"Percentage of trained newly recruited teachers, lower secondary general education, minimum regional value",measure
+trntp_2_pu,"Percentage of newly recruited teachers in lower secondary education who are trained, both sexes (%)",measure
+trntp_2_pu_f,"Percentage of female newly recruited teachers in lower secondary education who are trained, female (%)",measure
+trntp_2_pu_m,"Percentage of male newly recruited teachers in lower secondary education who are trained, male (%)",measure
+trntp_2t3_gpv_max,"Percentage of trained newly recruited teachers, total secondary general education, maximum regional value",measure
+trntp_2t3_gpv_max_min,"Maximum/Minimum ratio, percentage of trained newly recruited teachers, total secondary general education, regional level",measure
+trntp_2t3_gpv_min,"Percentage of trained newly recruited teachers, total secondary general education, minimum regional value",measure
+trntp_3_gpv_max,"Percentage of trained newly recruited teachers, upper secondary general education, maximum regional value",measure
+trntp_3_gpv_max_min,"Maximum/Minimum ratio, percentage of trained newly recruited teachers, upper secondary general education, regional level",measure
+trntp_3_gpv_min,"Percentage of trained newly recruited teachers, upper secondary general education, minimum regional value",measure
+trntp_3_pu,"Percentage of newly recruited teachers in upper secondary education who are trained, both sexes (%)",measure
+trntp_3_pu_f,"Percentage of female newly recruited teachers in upper secondary education who are trained, female (%)",measure
+trntp_3_pu_m,"Percentage of male newly recruited teachers in upper secondary education who are trained, male (%)",measure
+trtp_02,"Percentage of teachers in pre-primary education who are trained, both sexes (%)",measure
+trtp_02_f,"Percentage of female teachers in pre-primary education who are trained, female (%)",measure
+trtp_02_gpi,"Percentage of teachers in pre-primary education who are trained, gender parity index (GPI)",measure
+trtp_02_m,"Percentage of male teachers in pre-primary education who are trained, male (%)",measure
+trtp_1,"Percentage of teachers in primary education who are trained, both sexes (%)",measure
+trtp_1_f,"Percentage of female teachers in primary education who are trained, female (%)",measure
+trtp_1_gpi,"Percentage of teachers in primary education who are trained, gender parity index (GPI)",measure
+trtp_1_m,"Percentage of male teachers in primary education who are trained, male (%)",measure
+trtp_1_max,"Percentage of trained teachers, primary education, maximum regional value",measure
+trtp_1_max_min,"Maximum/Minimum ratio, percentage of trained teachers, primary education, regional level",measure
+trtp_1_min,"Percentage of trained teachers, primary education, minimum regional value",measure
+trtp_2,"Percentage of teachers in lower secondary education who are trained, both sexes (%)",measure
+trtp_2_f,"Percentage of female teachers in lower secondary education who are trained, female (%)",measure
+trtp_2_gpi,"Percentage of teachers in lower secondary education who are trained, gender parity index (GPI)",measure
+trtp_2_gpv_max,"Percentage of trained teachers, lower secondary general education, maximum regional value",measure
+trtp_2_gpv_max_min,"Maximum/Minimum ratio, percentage of trained teachers, lower secondary general education, regional level",measure
+trtp_2_gpv_min,"Percentage of trained teachers, lower secondary general education, minimum regional value",measure
+trtp_2_m,"Percentage of male teachers in lower secondary education who are trained, male (%)",measure
+trtp_2t3,"Percentage of teachers in secondary education who are trained, both sexes (%)",measure
+trtp_2t3_f,"Percentage of female teachers in secondary education who are trained, female (%)",measure
+trtp_2t3_gpi,"Percentage of teachers in secondary education who are trained, gender parity index (GPI)",measure
+trtp_2t3_gpv_max,"Percentage of trained teachers, total secondary general education, maximum regional value",measure
+trtp_2t3_gpv_max_min,"Maximum/Minimum ratio, percentage of trained teachers, total secondary general education, regional level",measure
+trtp_2t3_gpv_min,"Percentage of trained teachers, total secondary general education, minimum regional value",measure
+trtp_2t3_m,"Percentage of male teachers in secondary education who are trained, male (%)",measure
+trtp_3,"Percentage of teachers in upper secondary education who are trained, both sexes (%)",measure
+trtp_3_f,"Percentage of female teachers in upper secondary education who are trained, female (%)",measure
+trtp_3_gpi,"Percentage of teachers in upper secondary education who are trained, gender parity index (GPI)",measure
+trtp_3_gpv_max,"Percentage of trained teachers, upper secondary general education, maximum regional value",measure
+trtp_3_gpv_max_min,"Maximum/Minimum ratio, percentage of trained teachers, upper secondary general education, regional level",measure
+trtp_3_gpv_min,"Percentage of trained teachers, upper secondary general education, minimum regional value",measure
+trtp_3_m,"Percentage of male teachers in upper secondary education who are trained, male (%)",measure
+trtp_4,"Percentage of teachers in post-secondary non-tertiary education who are trained, both sexes (%)",measure
+trtp_4_f,"Percentage of female teachers in post-secondary non-tertiary education who are trained, female (%)",measure
+trtp_4_gpi,"Percentage of teachers in post-secondary non-tertiary education who are trained, gender parity index (GPI)",measure
+trtp_4_m,"Percentage of male teachers in post-secondary non-tertiary education who are trained, male (%)",measure
+uaep_1,"Percentage of students enrolled in primary education who are under-age, both sexes (%)",measure
+uaep_1_f,"Percentage of female students enrolled in primary education who are under-age, female (%)",measure
+uaep_1_m,"Percentage of male students enrolled in primary education who are under-age, male (%)",measure
+uapp_1,"Under-age enrolment ratio in primary education, both sexes (%)",measure
+uapp_1_f,"Under-age enrolment ratio in primary education, female (%)",measure
+uapp_1_m,"Under-age enrolment ratio in primary education, male (%)",measure
+uapp_2t3,"Under-age enrolment ratio in secondary education, both sexes (%)",measure
+uapp_2t3_f,"Under-age enrolment ratio in secondary education, female (%)",measure
+uapp_2t3_m,"Under-age enrolment ratio in secondary education, male (%)",measure
+xgdp_02_fsgov,Government expenditure on pre-primary education as % of GDP (%),measure
+xgdp_02_fsgov_fdinst_ffd,Government expenditure in pre-primary institutions as % of GDP (%),measure
+xgdp_1_fsgov,Government expenditure on primary education as % of GDP (%),measure
+xgdp_1_fsgov_fdinst_ffd,Government expenditure in primary institutions as % of GDP (%),measure
+xgdp_2t3_fsgov,Government expenditure on secondary education as % of GDP (%),measure
+xgdp_2t3_fsgov_fdinst_ffd,Government expenditure in secondary institutions education as % of GDP (%),measure
+xgdp_2t4_v_fsgov,Government expenditure on secondary and post-secondary non-tertiary vocational education as % of GDP (%),measure
+xgdp_4_fsgov,Government expenditure on post-secondary non-tertiary education as % of GDP (%),measure
+xgdp_4_fsgov_fdinst_ffd,Government expenditure in post-secondary non-tertiary institutions as % of GDP (%),measure
+xgdp_5t8_fsgov,Government expenditure on tertiary education as % of GDP (%),measure
+xgdp_5t8_fsgov_fdinst_ffd,Government expenditure in tertiary institutions as % of GDP (%),measure
+xgdp_fsgov,Government expenditure on education as % of GDP (%),measure
+xgdp_fsgov_fdinst_ffd,Government expenditure in educational institutions as % of GDP (%),measure
+xgovexp_imf,Expenditure on education as % of total government expenditure (%),measure
+xgovexp_imf_02,Expenditure on pre-primary as % of total government expenditure (%),measure
+xgovexp_imf_1,Expenditure on primary as % of total government expenditure (%),measure
+xgovexp_imf_2,Expenditure on lower secondary as % of total government expenditure (%),measure
+xgovexp_imf_2t3,Expenditure on secondary as % of total government expenditure (%),measure
+xgovexp_imf_2t4_v,Expenditure on secondary and post-secondary non-tertiary vocational education as % of total government expenditure (%),measure
+xgovexp_imf_3,Expenditure on upper secondary as % of total government expenditure (%),measure
+xgovexp_imf_4,Expenditure on post-secondary non-tertiary as % of total government expenditure (%),measure
+xgovexp_imf_5t8,Expenditure on tertiary as % of total government expenditure (%),measure
+xpubp_02,Expenditure on pre-primary as % of government expenditure on education (%),measure
+xpubp_1,Expenditure on primary as % of government expenditure on education (%),measure
+xpubp_2,Expenditure on lower secondary as % of government expenditure on education (%),measure
+xpubp_2t3,Expenditure on secondary as % of government expenditure on education (%),measure
+xpubp_2t4_v,Expenditure on secondary and post-secondary non-tertiary vocational as % of government expenditure on education (%),measure
+xpubp_3,Expenditure on upper secondary as % of government expenditure on education (%),measure
+xpubp_4,Expenditure on post-secondary non-tertiary as % of government expenditure on education (%),measure
+xpubp_5t8,Expenditure on tertiary as % of government expenditure on education (%),measure
+xpubp_uk,Expenditure on education not allocated by level as % of government expenditure on education (%),measure
+xspendp_02_fdpub_fncap,Capital expenditure as % of total expenditure in pre-primary public institutions (%),measure
+xspendp_02_fdpub_fncur,Current expenditure as % of total expenditure in pre-primary public institutions (%),measure
+xspendp_02_fdpub_fnnons,Current expenditure other than staff compensation as % of total expenditure in pre-primary public institutions (%),measure
+xspendp_02_fdpub_fns,All staff compensation as % of total expenditure in pre-primary public institutions (%),measure
+xspendp_1_fdpub_fncap,Capital expenditure as % of total expenditure in primary public institutions (%),measure
+xspendp_1_fdpub_fncur,Current expenditure as % of total expenditure in primary public institutions (%),measure
+xspendp_1_fdpub_fnnons,Current expenditure other than staff compensation as % of total expenditure in primary public institutions (%),measure
+xspendp_1_fdpub_fns,All staff compensation as % of total expenditure in primary public institutions (%),measure
+xspendp_2_fdpub_fncap,Capital expenditure as % of total expenditure in lower secondary public institutions (%),measure
+xspendp_2_fdpub_fncur,Current expenditure as % of total expenditure in lower secondary public institutions (%),measure
+xspendp_2_fdpub_fnnons,Current expenditure other than staff compensation as % of total expenditure in lower secondary public institutions (%),measure
+xspendp_2_fdpub_fns,All staff compensation as % of total expenditure in lower secondary public institutions (%),measure
+xspendp_2t3_fdpub_fncap,Capital expenditure as % of total expenditure in secondary public institutions (%),measure
+xspendp_2t3_fdpub_fncur,Current expenditure as % of total expenditure in secondary public institutions (%),measure
+xspendp_2t3_fdpub_fnnons,Current expenditure other than staff compensation as % of total expenditure in secondary public institutions (%),measure
+xspendp_2t3_fdpub_fns,All staff compensation as % of total expenditure in secondary public institutions (%),measure
+xspendp_3_fdpub_fncap,Capital expenditure as % of total expenditure in upper-secondary public institutions (%),measure
+xspendp_3_fdpub_fncur,Current expenditure as % of total expenditure in upper-secondary public institutions (%),measure
+xspendp_3_fdpub_fnnons,Current expenditure other than staff compensation as % of total expenditure in upper secondary public institutions (%),measure
+xspendp_3_fdpub_fns,All staff compensation as % of total expenditure in upper secondary public institutions (%),measure
+xspendp_4_fdpub_fncap,Capital expenditure as % of total expenditure in post-secondary non-tertiary public institutions (%),measure
+xspendp_4_fdpub_fncur,Current expenditure as % of total expenditure in post-secondary non-tertiary public institutions (%),measure
+xspendp_4_fdpub_fnnons,Current expenditure other than staff compensation as % of current expenditure in post-secondary non-tertiary public institutions (%),measure
+xspendp_4_fdpub_fns,All staff compensation as % of total expenditure in post-secondary non-tertiary public institutions (%),measure
+xspendp_5t8_fdpub_fncap,Capital expenditure as % of total expenditure in tertiary public institutions (%),measure
+xspendp_5t8_fdpub_fncur,Current expenditure as % of total expenditure in tertiary public institutions (%),measure
+xspendp_5t8_fdpub_fnnons,Current expenditure other than staff compensation as % of total expenditure in tertiary public institutions (%),measure
+xspendp_5t8_fdpub_fns,All staff compensation as % of total expenditure in tertiary public institutions (%),measure
+xspendp_fdpub_fncap,Capital expenditure as % of total expenditure in public institutions (%),measure
+xspendp_fdpub_fncur,Current expenditure as % of total expenditure in public institutions (%),measure
+xspendp_fdpub_fnnons,Current expenditure other than staff compensation as % of total expenditure in public institutions (%),measure
+xspendp_fdpub_fns,All staff compensation as % of total expenditure in public institutions (%),measure
+xunit_gdpcap_1_fsgov,Government expenditure per primary student as % of GDP per capita (%),measure
+xunit_gdpcap_2_fsgov,Government expenditure per lower secondary student as % of GDP per capita (%),measure
+xunit_gdpcap_2t3_fsgov,Government expenditure per secondary student as % of GDP per capita (%),measure
+xunit_gdpcap_3_fsgov,Government expenditure per upper secondary student as % of GDP per capita (%),measure
+xunit_gdpcap_4_fsgov,Government expenditure per post-secondary non-tertiary student as % of GDP per capita (%),measure
+xunit_gdpcap_5t8_fsgov,Government expenditure per tertiary student as % of GDP per capita (%),measure
+xunit_ppp_1_fsgov,Government expenditure per primary student (PPP$),measure
+xunit_ppp_2_fsgov,Government expenditure per lower secondary student (PPP$),measure
+xunit_ppp_2t3_fsgov,Government expenditure per secondary student (PPP$),measure
+xunit_ppp_3_fsgov,Government expenditure per upper secondary student (PPP$),measure
+xunit_ppp_4_fsgov,Government expenditure per post-secondary non-tertiary student (PPP$),measure
+xunit_ppp_5t8_fsgov,Government expenditure per tertiary student (PPP$),measure
+xunit_pppconst_1_fsgov,Government expenditure per primary student (constant PPP$),measure
+xunit_pppconst_2_fsgov,Government expenditure per lower secondary student (constant PPP$),measure
+xunit_pppconst_2t3_fsgov,Government expenditure per secondary student (constant PPP$),measure
+xunit_pppconst_3_fsgov,Government expenditure per upper secondary student (constant PPP$),measure
+xunit_pppconst_4_fsgov,Government expenditure per post-secondary non-tertiary student (constant PPP$),measure
+xunit_pppconst_5t8_fsgov,Government expenditure per tertiary student (constant PPP$),measure
+xunit_us_1_fsgov,Government expenditure per primary student (US$),measure
+xunit_us_2_fsgov,Government expenditure per lower secondary student (US$),measure
+xunit_us_2t3_fsgov,Government expenditure per secondary student (US$),measure
+xunit_us_3_fsgov,Government expenditure per upper secondary student (US$),measure
+xunit_us_4_fsgov,Government expenditure per post-secondary non-tertiary student (US$),measure
+xunit_us_5t8_fsgov,Government expenditure per tertiary student (US$),measure
+xunit_usconst_1_fsgov,Government expenditure per primary student (constant US$),measure
+xunit_usconst_2_fsgov,Government expenditure per lower secondary student (constant US$),measure
+xunit_usconst_2t3_fsgov,Government expenditure per secondary student (constant US$),measure
+xunit_usconst_3_fsgov,Government expenditure per upper secondary student (constant US$),measure
+xunit_usconst_4_fsgov,Government expenditure per post-secondary non-tertiary student (constant US$),measure
+xunit_usconst_5t8_fsgov,Government expenditure per tertiary student (constant US$),measure

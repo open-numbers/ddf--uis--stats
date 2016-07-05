@@ -1,0 +1,292 @@
+location,name
+aus,Australia
+aut,Austria
+bel,Belgium
+can,Canada
+cze,Czech Republic
+dnk,Denmark
+fin,Finland
+fra,France
+deu,Germany
+grc,Greece
+hun,Hungary
+isl,Iceland
+irl,Ireland
+ita,Italy
+jpn,Japan
+kor,Republic of Korea
+lux,Luxembourg
+mex,Mexico
+nld,Netherlands
+nzl,New Zealand
+nor,Norway
+pol,Poland
+prt,Portugal
+svk,Slovakia
+esp,Spain
+swe,Sweden
+che,Switzerland
+tur,Turkey
+gbr,United Kingdom of Great Britain and Northern Ireland
+usa,United States of America
+afg,Afghanistan
+alb,Albania
+dza,Algeria
+asm,American Samoa
+and,Andorra
+ago,Angola
+aia,Anguilla
+atg,Antigua and Barbuda
+arg,Argentina
+arm,Armenia
+abw,Aruba
+aze,Azerbaijan
+bhs,Bahamas
+bhr,Bahrain
+bgd,Bangladesh
+brb,Barbados
+blr,Belarus
+blz,Belize
+ben,Benin
+bmu,Bermuda
+btn,Bhutan
+bol,Bolivia (Plurinational State of)
+bih,Bosnia and Herzegovina
+bwa,Botswana
+bra,Brazil
+vgb,British Virgin Islands
+brn,Brunei Darussalam
+bgr,Bulgaria
+bfa,Burkina Faso
+bdi,Burundi
+khm,Cambodia
+cmr,Cameroon
+cpv,Cape Verde
+cym,Cayman Islands
+caf,Central African Republic
+tcd,Chad
+zza,Channel Islands
+chl,Chile
+chn,China
+col,Colombia
+com,Comoros
+cog,Congo
+cok,Cook Islands
+cri,Costa Rica
+civ,Côte d'Ivoire
+hrv,Croatia
+cub,Cuba
+cyp,Cyprus
+prk,Democratic People's Republic of Korea
+cod,Democratic Republic of the Congo
+dji,Djibouti
+dma,Dominica
+dom,Dominican Republic
+ecu,Ecuador
+egy,Egypt
+slv,El Salvador
+gnq,Equatorial Guinea
+eri,Eritrea
+est,Estonia
+eth,Ethiopia
+fro,Faeroe Islands
+flk,Falkland Islands (Malvinas)
+fji,Fiji
+guf,French Guiana
+pyf,French Polynesia
+gab,Gabon
+gmb,Gambia
+geo,Georgia
+gha,Ghana
+gib,Gibraltar
+grl,Greenland
+grd,Grenada
+glp,Guadeloupe
+gum,Guam
+gtm,Guatemala
+gin,Guinea
+gnb,Guinea-Bissau
+guy,Guyana
+hti,Haiti
+vat,Holy See
+hnd,Honduras
+hkg,"China, Hong Kong Special Administrative Region"
+ind,India
+idn,Indonesia
+irn,Iran (Islamic Republic of)
+irq,Iraq
+imn,Isle of Man
+isr,Israel
+jam,Jamaica
+jor,Jordan
+kaz,Kazakhstan
+ken,Kenya
+kir,Kiribati
+kwt,Kuwait
+kgz,Kyrgyzstan
+lao,Lao People's Democratic Republic
+lva,Latvia
+lbn,Lebanon
+lso,Lesotho
+lbr,Liberia
+lby,Libya
+lie,Liechtenstein
+ltu,Lithuania
+mkd,The former Yugoslav Republic of Macedonia
+mdg,Madagascar
+mwi,Malawi
+mys,Malaysia
+mdv,Maldives
+mli,Mali
+mlt,Malta
+mhl,Marshall Islands
+mtq,Martinique
+mrt,Mauritania
+mus,Mauritius
+myt,Mayotte
+fsm,Micronesia (Federated States of)
+mda,Republic of Moldova
+mco,Monaco
+mng,Mongolia
+msr,Montserrat
+mar,Morocco
+moz,Mozambique
+mmr,Myanmar
+nam,Namibia
+nru,Nauru
+npl,Nepal
+ant,Netherlands Antilles
+ncl,New Caledonia
+nic,Nicaragua
+ner,Niger
+nga,Nigeria
+niu,Niue
+nfk,Norfolk Island
+mnp,Northern Mariana Islands
+pse,Palestine
+omn,Oman
+pak,Pakistan
+plw,Palau
+pan,Panama
+png,Papua New Guinea
+pry,Paraguay
+per,Peru
+phl,Philippines
+pcn,Pitcairn
+pri,Puerto Rico
+qat,Qatar
+reu,Réunion
+rou,Romania
+rus,Russian Federation
+rwa,Rwanda
+shn,Saint Helena
+kna,Saint Kitts and Nevis
+lca,Saint Lucia
+spm,Saint Pierre and Miquelon
+vct,Saint Vincent and the Grenadines
+wsm,Samoa
+smr,San Marino
+stp,Sao Tome and Principe
+sau,Saudi Arabia
+sen,Senegal
+syc,Seychelles
+sle,Sierra Leone
+sgp,Singapore
+svn,Slovenia
+slb,Solomon Islands
+som,Somalia
+zaf,South Africa
+lka,Sri Lanka
+sdn,Sudan
+sur,Suriname
+sjm,Svalbard and Jan Mayen Islands
+swz,Swaziland
+syr,Syrian Arab Republic
+tjk,Tajikistan
+tza,United Republic of Tanzania
+tha,Thailand
+tls,Timor-Leste
+tgo,Togo
+tkl,Tokelau
+ton,Tonga
+tto,Trinidad and Tobago
+tun,Tunisia
+tkm,Turkmenistan
+tca,Turks and Caicos Islands
+tuv,Tuvalu
+uga,Uganda
+ukr,Ukraine
+are,United Arab Emirates
+ury,Uruguay
+uzb,Uzbekistan
+vut,Vanuatu
+ven,Venezuela (Bolivarian Republic of)
+vnm,Viet Nam
+vir,United States Virgin Islands
+wlf,Wallis and Futuna Islands
+yem,Yemen
+zmb,Zambia
+zwe,Zimbabwe
+esh,Western Sahara
+mac,"China, Macao Special Administrative Region"
+srb,Serbia
+mne,Montenegro
+ala,Åland Islands
+cuw,Curaçao
+sxm,Sint Maarten (Dutch part)
+blm,Saint-Barthélemy
+maf,Saint-Martin (French part)
+ssd,South Sudan
+xdn,Sudan (pre-secession)
+ggy,Guernsey
+jey,Jersey
+40322,Arab States
+efa,Education For All Regions
+40326,Central and Eastern Europe
+40063,Central Asia
+40387,Countries in transition
+40388,Developed countries
+40389,Developing countries
+40313,East Asia and the Pacific
+40314,Latin America and the Caribbean
+40061,North America and Western Europe
+40345,South and West Asia
+40350,Sub-Saharan Africa
+40070,World
+40365,Caucasus and Central Asia
+mdgr,Millenium Development Goals Regions
+19700,Developed countries
+19710,Developing countries
+40327,Eastern Asia
+40360,Latin America & the Caribbean
+40336,Northern Africa
+40358,Oceania
+40347,South-Eastern Asia
+40346,Southern Asia
+40359,Sub-Saharan Africa
+40354,Western Asia
+40366,World
+40368,Africa
+unesco,UNESCO Regions
+40371,Asia
+40372,Europe
+40369,North America
+40373,Oceania
+40370,South America
+40355,World
+40525,Arab States
+uis,UIS Regions
+40530,Central and Eastern Europe
+40505,Central Asia
+40515,East Asia and the Pacific
+40520,Latin America and the Caribbean
+40500,North America and Western Europe
+40535,South and West Asia
+40540,Sub-Saharan Africa
+40510,World
+40044,Low income countries
+wb,World Bank Regions
+40042,Lower middle income countries
+40030,Middle income countries
+40043,Upper middle income countries
+40041,High income countries
