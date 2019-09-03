@@ -19,11 +19,10 @@ from lxml import etree
 import time
 
 from ddf_utils.str import to_concept_id
-from ddf_utils.index import create_index_file
 
 # configuration of file paths
-dsd_file = '../source/education_dsd.xml'
-data_file = '../source/education.xml'
+dsd_file = '../source/DataStructureDefinition.xml'
+data_file = '../source/DataGeneric.xml'
 out_dir = '../../'
 
 
@@ -195,7 +194,7 @@ if __name__ == '__main__':
 
         df.to_csv(path, index=False)
 
-    print('creating index file...')
-    create_index_file(out_dir)
+    # print('creating index file...')
+    # create_index_file(out_dir)
 
     print('Done.')
