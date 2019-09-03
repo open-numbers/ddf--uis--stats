@@ -3,7 +3,7 @@ aus,Australia
 aut,Austria
 bel,Belgium
 can,Canada
-cze,Czech Republic
+cze,Czechia
 dnk,Denmark
 fin,Finland
 fra,France
@@ -61,7 +61,7 @@ bfa,Burkina Faso
 bdi,Burundi
 khm,Cambodia
 cmr,Cameroon
-cpv,Cape Verde
+cpv,Cabo Verde
 cym,Cayman Islands
 caf,Central African Republic
 tcd,Chad
@@ -132,7 +132,7 @@ lbr,Liberia
 lby,Libya
 lie,Liechtenstein
 ltu,Lithuania
-mkd,The former Yugoslav Republic of Macedonia
+mkd,North Macedonia
 mdg,Madagascar
 mwi,Malawi
 mys,Malaysia
@@ -200,7 +200,7 @@ lka,Sri Lanka
 sdn,Sudan
 sur,Suriname
 sjm,Svalbard and Jan Mayen Islands
-swz,Swaziland
+swz,Eswatini
 syr,Syrian Arab Republic
 tjk,Tajikistan
 tza,United Republic of Tanzania
@@ -240,40 +240,10 @@ ssd,South Sudan
 xdn,Sudan (pre-secession)
 ggy,Guernsey
 jey,Jersey
-40322,Arab States
-efa,Education For All Regions
-40326,Central and Eastern Europe
-40063,Central Asia
-40387,Countries in transition
-40388,Developed countries
-40389,Developing countries
-40313,East Asia and the Pacific
-40314,Latin America and the Caribbean
-40061,North America and Western Europe
-40345,South and West Asia
-40350,Sub-Saharan Africa
-40070,World
-40365,Caucasus and Central Asia
-mdgr,Millenium Development Goals Regions
-19700,Developed countries
-19710,Developing countries
-40327,Eastern Asia
-40360,Latin America & the Caribbean
-40336,Northern Africa
-40358,Oceania
-40347,South-Eastern Asia
-40346,Southern Asia
-40359,Sub-Saharan Africa
-40354,Western Asia
-40366,World
-40368,Africa
-unesco,UNESCO Regions
-40371,Asia
-40372,Europe
-40369,North America
-40373,Oceania
-40370,South America
-40355,World
+40330,Landlocked Developing Countries
+sdg,Sustainable Development Goal Regions
+40334,Least Developed Countries
+40344,Small Island Developing States
 40525,Arab States
 uis,UIS Regions
 40530,Central and Eastern Europe
@@ -285,8 +255,27 @@ uis,UIS Regions
 40540,Sub-Saharan Africa
 40510,World
 40044,Low income countries
-wb,World Bank Regions
+wb,World Bank Income Groups
 40042,Lower middle income countries
 40030,Middle income countries
 40043,Upper middle income countries
 40041,High income countries
+40675,World
+40606,Africa (Sub-Saharan)
+40617,Western Asia and Northern Africa
+40603,Africa (Northern)
+40614,Asia (Western)
+40618,Asia (Central and Southern)
+40612,Asia (Central)
+40616,Asia (Southern)
+40619,Asia (Eastern and South-eastern)
+40611,Asia (Eastern)
+40613,Asia (South-eastern)
+40630,Latin America and the Caribbean
+40650,Oceania
+40651,Oceania (Australia/New Zealand)
+40656,Oceania (excl. Australia/New Zealand)
+40642,Northern America and Europe
+40620,Europe
+40640,Northern America
+40550,Small Island Developing States
