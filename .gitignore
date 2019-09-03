@@ -1,10 +1,14 @@
+# Tempfiles of OSX/Win
+Thumbs.db
 .DS_Store
-etl/source
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# backup files
+*.bak
 
 # C extensions
 *.so
